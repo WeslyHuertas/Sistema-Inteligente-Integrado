@@ -21,13 +21,9 @@ En este repositorio podrá encontrar :
 
 
 ```bash
-app.py
+app_vf.py
 README.md
 codes/
-├── clasificación de conducción distractiva/
-│   └── img_behaviorclassifier.ipynb
-├── predicción de demanda de transporte/
-│   └── Modulo1.ipynb
-    └── modelo_multiruta_lstm.pt
-└── sistema de recomendación de viajes/
-    └── sistema_de_recomendación_de_viajes.ipynb
+├── Modulo1.ipynb
+├── Modulo2.ipynb
+└── Modulo3.ipynb
