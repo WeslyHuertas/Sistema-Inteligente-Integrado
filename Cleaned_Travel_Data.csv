@@ -1,0 +1,1000 @@
+UserID,DestinationID,VisitDate,ExperienceRating,Preferences,Gender,NumberOfAdults,NumberOfChildren,Name_y,State,Type,Popularity,BestTimeToVisit,PreferencesList,PopularityNorm,ExperienceRatingNorm
+525,760,2024-01-01,3,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.352180026398809,Apr-Jun,"['City', 'Historical']",0.4248360537818492,0.5
+184,532,2024-02-15,5,"Beaches, Historical",Male,1,2,Goa Beaches,Goa,Beach,8.988127174492362,Nov-Mar,"['Beaches', 'Historical']",0.7435568532374578,1.0
+897,786,2024-03-20,2,"City, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.389205905418272,Nov-Feb,"['City', 'Historical']",0.44339249797223024,0.25
+470,660,2024-01-01,1,"Nature, Adventure",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964302513,Apr-Jun,"['Nature', 'Adventure']",0.209936200482333,0.0
+989,389,2024-02-15,4,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,9.40914617773771,Sep-Mar,"['Nature', 'Adventure']",0.9545610439200154,0.75
+266,394,2024-03-20,3,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,8.884525796968724,Sep-Mar,"['Nature', 'Adventure']",0.691634434891808,0.5
+399,953,2024-01-01,2,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.321398766693164,Oct-Mar,"['City', 'Historical']",0.4094092565534252,0.25
+869,901,2024-02-15,4,"Nature, Adventure",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,7.94384380620817,Nov-Feb,"['Nature', 'Adventure']",0.22018815664764194,0.75
+580,890,2024-03-20,1,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575412055,Apr-Jun,"['Beaches', 'Historical']",0.11955010022224996,0.0
+876,727,2024-01-01,4,"City, Historical",Male,2,2,Goa Beaches,Goa,Beach,7.714387334549871,Nov-Mar,"['City', 'Historical']",0.10519031397088258,0.75
+522,97,2024-02-15,2,"City, Historical",Female,2,0,Goa Beaches,Goa,Beach,8.882535315140167,Nov-Mar,"['City', 'Historical']",0.6906368552004747,0.25
+989,779,2024-03-20,4,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,8.861507015552508,Sep-Mar,"['Nature', 'Adventure']",0.6800979975676313,0.75
+469,715,2024-01-01,3,"Beaches, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.402277983035928,Apr-Jun,"['Beaches', 'Historical']",0.44994389621551956,0.5
+46,487,2024-02-15,1,"Beaches, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.062331360639273,Nov-Mar,"['Beaches', 'Historical']",0.27957115441252195,0.0
+98,617,2024-03-20,5,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,9.097017238917031,Nov-Mar,"['Nature', 'Adventure']",0.7981298291368601,1.0
+45,925,2024-01-01,4,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.801125565121017,Apr-Jun,"['City', 'Historical']",0.1486613449738141,0.75
+424,893,2024-02-15,2,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,8.375786034039642,Oct-Mar,"['Beaches', 'Historical']",0.4366667941976151,0.25
+352,149,2024-03-20,5,"Beaches, Historical",Female,1,0,Kerala Backwaters,Kerala,Nature,7.812523860815096,Sep-Mar,"['Beaches', 'Historical']",0.15437388559442838,1.0
+330,208,2024-01-01,3,"City, Historical",Female,2,1,Jaipur City,Rajasthan,City,9.232664943302456,Oct-Mar,"['City', 'Historical']",0.8661130647180671,0.5
+76,310,2024-02-15,2,"Beaches, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.862071974081125,Apr-Jun,"['Beaches', 'Historical']",0.17920616028739186,0.25
+501,200,2024-03-20,1,"City, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.77167518972464,Apr-Jun,"['City', 'Historical']",0.13390155366294804,0.0
+609,458,2024-01-01,1,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,9.04884504620765,Oct-Mar,"['City', 'Historical']",0.7739871314018509,0.0
+276,476,2024-02-15,4,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.59393285581819,Nov-Feb,"['City', 'Historical']",0.5459965233180151,0.75
+752,420,2024-03-20,3,"Nature, Adventure",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.333012518480867,Apr-Jun,"['Nature', 'Adventure']",0.9164047587372531,0.5
+81,805,2024-01-01,3,"City, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,"['City', 'Historical']",0.45388499924100933,0.5
+290,619,2024-02-15,2,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,9.4345443222489,Sep-Mar,"['Nature', 'Adventure']",0.9672899584965843,0.25
+422,986,2024-03-20,2,"Nature, Adventure",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.108715094313126,Nov-Feb,"['Nature', 'Adventure']",0.3028175212255258,0.25
+129,586,2024-01-01,3,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,"['City', 'Historical']",0.032687997589252865,0.5
+324,38,2024-02-15,5,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,9.458687607787096,Oct-Mar,"['City', 'Historical']",0.979389969152009,1.0
+421,410,2024-03-20,3,"Beaches, Historical",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239628784924,Apr-Jun,"['Beaches', 'Historical']",0.777693111179785,0.5
+2,385,2024-01-01,5,"Nature, Adventure",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.051203902011398,Apr-Jun,"['Nature', 'Adventure']",0.2739943505532429,1.0
+476,114,2024-02-15,1,"Nature, Adventure",Female,1,0,Kerala Backwaters,Kerala,Nature,9.46714704036077,Sep-Mar,"['Nature', 'Adventure']",0.9836296251059741,0.0
+260,208,2024-03-20,2,"Nature, Adventure",Female,1,0,Jaipur City,Rajasthan,City,9.232664943302456,Oct-Mar,"['Nature', 'Adventure']",0.8661130647180671,0.25
+878,732,2024-01-01,1,"Nature, Adventure",Female,1,2,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,"['Nature', 'Adventure']",0.4815699721217788,0.0
+951,734,2024-02-15,4,"City, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,8.248600725902943,Sep-Mar,"['City', 'Historical']",0.3729246998901596,0.75
+688,966,2024-03-20,5,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.140527124056437,Nov-Feb,"['Beaches', 'Historical']",0.8199358949670555,1.0
+902,216,2024-01-01,4,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,9.36720219996661,Nov-Feb,"['Nature', 'Adventure']",0.9335397716843751,0.75
+533,559,2024-02-15,3,"Nature, Adventure",Female,1,1,Kerala Backwaters,Kerala,Nature,8.65327152196819,Sep-Mar,"['Nature', 'Adventure']",0.5757355781603133,0.5
+234,884,2024-03-20,2,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,9.241444802843858,Sep-Mar,"['City', 'Historical']",0.8705133106512906,0.25
+9,959,2024-01-01,2,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,9.052548436473314,Sep-Mar,"['City', 'Historical']",0.7758431779455099,0.25
+781,284,2024-02-15,3,"Beaches, Historical",Female,1,0,Kerala Backwaters,Kerala,Nature,9.01486652208098,Sep-Mar,"['Beaches', 'Historical']",0.7569579452400154,0.5
+739,554,2024-03-20,3,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.025943210875612,Sep-Mar,"['Beaches', 'Historical']",0.7625093045291155,0.5
+649,871,2024-01-01,2,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,7.643206988401131,Nov-Feb,"['Beaches', 'Historical']",0.06951650538778954,0.25
+463,10,2024-02-15,5,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.811952081678728,Apr-Jun,"['Beaches', 'Historical']",0.655262304556712,1.0
+631,394,2024-03-20,2,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,8.884525796968724,Sep-Mar,"['Beaches', 'Historical']",0.691634434891808,0.25
+708,127,2024-01-01,4,"City, Historical",Male,1,1,Goa Beaches,Goa,Beach,8.132745077467629,Nov-Mar,"['City', 'Historical']",0.314860747561028,0.75
+891,796,2024-02-15,3,"City, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,9.243698788707544,Nov-Feb,"['City', 'Historical']",0.8716429519722542,0.5
+488,532,2024-03-20,2,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,8.988127174492362,Nov-Mar,"['Nature', 'Adventure']",0.7435568532374578,0.25
+554,933,2024-01-01,1,"Nature, Adventure",Female,1,2,Jaipur City,Rajasthan,City,9.274200565698507,Oct-Mar,"['Nature', 'Adventure']",0.8869296794566368,0.0
+957,404,2024-02-15,1,"City, Historical",Female,1,0,Kerala Backwaters,Kerala,Nature,9.28938699420442,Sep-Mar,"['City', 'Historical']",0.8945407374648222,0.0
+296,348,2024-03-20,5,"Nature, Adventure",Male,1,0,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,"['Nature', 'Adventure']",0.25512464820971475,1.0
+295,916,2024-01-01,1,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.39676149780104,Nov-Feb,"['Beaches', 'Historical']",0.9483541521959927,0.0
+234,872,2024-02-15,2,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,"['City', 'Historical']",0.9566570412533837,0.25
+306,223,2024-03-20,3,"City, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.936949815863377,Oct-Mar,"['City', 'Historical']",0.7179080415317136,0.5
+18,883,2024-01-01,1,"City, Historical",Male,1,0,Jaipur City,Rajasthan,City,7.95494238797158,Oct-Mar,"['City', 'Historical']",0.22575048814493992,0.0
+297,659,2024-02-15,2,"City, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,7.991928056209089,Sep-Mar,"['City', 'Historical']",0.24428677969746448,0.25
+882,814,2024-03-20,1,"City, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,7.589205999248015,Sep-Mar,"['City', 'Historical']",0.04245256070957094,0.0
+809,396,2024-01-01,1,"Nature, Adventure",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,9.113864702192004,Nov-Feb,"['Nature', 'Adventure']",0.8065733562128057,0.0
+591,893,2024-02-15,1,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.375786034039642,Oct-Mar,"['City', 'Historical']",0.4366667941976151,0.0
+65,494,2024-03-20,3,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,8.937812540340415,Sep-Mar,"['Nature', 'Adventure']",0.718340417454549,0.5
+290,682,2024-01-01,1,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,8.57790096253945,Nov-Mar,"['Nature', 'Adventure']",0.5379617395189135,0.0
+217,188,2024-02-15,2,"Beaches, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.202625978518912,Oct-Mar,"['Beaches', 'Historical']",0.34988330677292445,0.25
+977,395,2024-03-20,3,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809066051,Apr-Jun,"['Nature', 'Adventure']",0.688900030261843,0.5
+859,880,2024-01-01,3,"Beaches, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358263288,Apr-Jun,"['Beaches', 'Historical']",0.4702276380752029,0.5
+29,505,2024-02-15,3,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.07869796905618,Apr-Jun,"['Nature', 'Adventure']",0.28777368906442,0.5
+747,660,2024-03-20,4,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964302513,Apr-Jun,"['City', 'Historical']",0.209936200482333,0.75
+61,339,2024-01-01,5,"Beaches, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.568613099478302,Sep-Mar,"['Beaches', 'Historical']",0.5333068949316586,1.0
+906,330,2024-02-15,4,"City, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.63573528781037,Apr-Jun,"['City', 'Historical']",0.06577187599096107,0.75
+442,433,2024-03-20,3,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,8.683728793384567,Oct-Mar,"['Beaches', 'Historical']",0.5910000005642271,0.5
+450,419,2024-01-01,5,"City, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,8.165654259803166,Sep-Mar,"['City', 'Historical']",0.33135400637169526,1.0
+18,582,2024-02-15,1,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,7.779308047020037,Nov-Mar,"['City', 'Historical']",0.1377269507680574,0.0
+446,105,2024-03-20,3,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.367695620218187,Apr-Jun,"['Nature', 'Adventure']",0.9337870615692688,0.5
+222,223,2024-01-01,4,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.936949815863377,Oct-Mar,"['City', 'Historical']",0.7179080415317136,0.75
+852,874,2024-02-15,5,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.671636575343907,Sep-Mar,"['City', 'Historical']",0.5849396834251936,1.0
+328,303,2024-03-20,4,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.356796584275807,Oct-Mar,"['Beaches', 'Historical']",0.9283247374449066,0.75
+537,804,2024-01-01,5,"City, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,8.208242452766306,Sep-Mar,"['City', 'Historical']",0.3526981431435535,1.0
+431,621,2024-02-15,4,"Nature, Adventure",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,7.820265199039039,Nov-Feb,"['Nature', 'Adventure']",0.1582536506267707,0.75
+423,619,2024-03-20,4,"City, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,9.4345443222489,Sep-Mar,"['City', 'Historical']",0.9672899584965843,0.75
+327,175,2024-01-01,3,"City, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.866219313947683,Apr-Jun,"['City', 'Historical']",0.6824596836232822,0.5
+628,631,2024-02-15,5,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.69173765365114,Nov-Feb,"['Beaches', 'Historical']",0.5950138409510305,1.0
+834,575,2024-03-20,2,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.419067682490505,Apr-Jun,"['City', 'Historical']",0.4583584735099129,0.25
+303,849,2024-01-01,1,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.749274375887886,Sep-Mar,"['City', 'Historical']",0.6238498065879944,0.0
+636,139,2024-02-15,5,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.426322913287258,Sep-Mar,"['City', 'Historical']",0.46199461366198086,1.0
+69,92,2024-03-20,2,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,7.842354721882594,Nov-Mar,"['City', 'Historical']",0.1693243668040452,0.25
+107,130,2024-01-01,5,"Nature, Adventure",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.46063445778344,Apr-Jun,"['Nature', 'Adventure']",0.9803656816606899,1.0
+866,589,2024-02-15,2,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,9.427997305985516,Sep-Mar,"['Nature', 'Adventure']",0.9640087577493677,0.25
+60,320,2024-03-20,4,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.353685271308148,Apr-Jun,"['City', 'Historical']",0.4255904448697237,0.75
+461,329,2024-01-01,1,"Nature, Adventure",Female,1,0,Kerala Backwaters,Kerala,Nature,8.214897900478032,Sep-Mar,"['Nature', 'Adventure']",0.35603368701976285,0.0
+594,340,2024-02-15,3,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.051578730223218,Apr-Jun,"['City', 'Historical']",0.7753571854346633,0.5
+344,565,2024-03-20,4,"Nature, Adventure",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.47880343825541,Apr-Jun,"['Nature', 'Adventure']",0.48829653973216225,0.75
+331,723,2024-01-01,2,"Beaches, Historical",Male,1,2,Jaipur City,Rajasthan,City,8.279131951554369,Oct-Mar,"['Beaches', 'Historical']",0.3882261863063714,0.25
+855,371,2024-02-15,5,"City, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.32089647558579,Nov-Feb,"['City', 'Historical']",0.4091575208175523,1.0
+44,230,2024-03-20,2,"Nature, Adventure",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.619039723254248,Apr-Jun,"['Nature', 'Adventure']",0.057404476752452485,0.25
+291,675,2024-01-01,1,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.944718004457487,Apr-Jun,"['City', 'Historical']",0.7218012632977971,0.0
+34,886,2024-02-15,5,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,"['Beaches', 'Historical']",0.10452869297973902,1.0
+77,803,2024-03-20,5,"Nature, Adventure",Male,2,0,Jaipur City,Rajasthan,City,9.31045957210701,Oct-Mar,"['Nature', 'Adventure']",0.9051017862812816,1.0
+976,611,2024-01-01,5,"Beaches, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,9.342123928378385,Nov-Feb,"['Beaches', 'Historical']",0.9209711694136908,1.0
+556,387,2024-02-15,2,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,8.763403696969464,Nov-Mar,"['Beaches', 'Historical']",0.6309310688035503,0.25
+671,94,2024-03-20,2,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,7.678657960181018,Sep-Mar,"['Nature', 'Adventure']",0.0872836454733074,0.25
+88,889,2024-01-01,1,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.002930521303405,Sep-Mar,"['Beaches', 'Historical']",0.7509759202847403,0.0
+934,51,2024-02-15,2,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.329362264700663,Nov-Feb,"['Beaches', 'Historical']",0.41340036251092793,0.25
+653,423,2024-03-20,5,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,8.427042499188698,Oct-Mar,"['Nature', 'Adventure']",0.4623552521120019,1.0
+676,824,2024-01-01,5,"Beaches, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,9.206043310589514,Sep-Mar,"['Beaches', 'Historical']",0.8527709684660146,1.0
+411,975,2024-02-15,1,"City, Historical",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722103503646,Apr-Jun,"['City', 'Historical']",0.6396106208581807,0.0
+323,922,2024-03-20,2,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,9.298024384615864,Nov-Mar,"['Nature', 'Adventure']",0.8988695814346369,0.25
+756,766,2024-01-01,1,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.145328815121932,Nov-Feb,"['City', 'Historical']",0.32116740203277533,0.0
+686,180,2024-02-15,5,"Nature, Adventure",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.091363134430685,Apr-Jun,"['Nature', 'Adventure']",0.2941211530722404,1.0
+941,936,2024-03-20,4,"Nature, Adventure",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.02055897257851,Nov-Feb,"['Nature', 'Adventure']",0.2586358786465899,0.75
+899,9,2024-01-01,1,"Nature, Adventure",Female,1,1,Kerala Backwaters,Kerala,Nature,9.260450137338132,Sep-Mar,"['Nature', 'Adventure']",0.8800383087931882,0.0
+544,472,2024-02-15,4,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,9.276219098262825,Nov-Mar,"['Beaches', 'Historical']",0.8879413174749141,0.75
+132,839,2024-03-20,5,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,9.19673720089384,Sep-Mar,"['City', 'Historical']",0.8481069791220601,1.0
+890,655,2024-01-01,4,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.769705210150947,Apr-Jun,"['Nature', 'Adventure']",0.634089229548517,0.75
+944,391,2024-02-15,4,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.937176476917816,Nov-Feb,"['Nature', 'Adventure']",0.7180216383812205,0.75
+438,880,2024-03-20,1,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358263288,Apr-Jun,"['City', 'Historical']",0.4702276380752029,0.0
+524,476,2024-01-01,5,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.59393285581819,Nov-Feb,"['Nature', 'Adventure']",0.5459965233180151,1.0
+160,96,2024-02-15,1,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.984287702263758,Nov-Feb,"['Beaches', 'Historical']",0.7416326058186955,0.0
+288,158,2024-03-20,3,"City, Historical",Female,1,1,Jaipur City,Rajasthan,City,8.533439718586166,Oct-Mar,"['City', 'Historical']",0.5156788764538573,0.5
+363,152,2024-01-01,2,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,9.000248319359416,Nov-Mar,"['City', 'Historical']",0.7496316677781408,0.25
+35,91,2024-02-15,5,"Nature, Adventure",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.775155892425978,Nov-Feb,"['Nature', 'Adventure']",0.6368209751306526,1.0
+316,22,2024-03-20,5,"Beaches, Historical",Female,2,0,Goa Beaches,Goa,Beach,7.745073501266791,Nov-Mar,"['Beaches', 'Historical']",0.12056945297255038,1.0
+239,27,2024-01-01,4,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,7.504499933755479,Nov-Mar,"['Nature', 'Adventure']",0.0,0.75
+948,1000,2024-02-15,3,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.939036209396416,Apr-Jun,"['City', 'Historical']",0.7189536897696572,0.5
+343,478,2024-03-20,3,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.746027540435104,Oct-Mar,"['Beaches', 'Historical']",0.6222225738937154,0.5
+50,21,2024-01-01,2,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.321865627407217,Nov-Feb,"['Nature', 'Adventure']",0.9108182158223443,0.25
+78,61,2024-02-15,4,"City, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.255411351531992,Nov-Feb,"['City', 'Historical']",0.8775129954157588,0.75
+563,403,2024-03-20,3,"Nature, Adventure",Male,2,2,Jaipur City,Rajasthan,City,8.578600554982318,Oct-Mar,"['Nature', 'Adventure']",0.5383123577477272,0.5
+805,428,2024-01-01,3,"Beaches, Historical",Male,1,2,Jaipur City,Rajasthan,City,9.229663135604667,Oct-Mar,"['Beaches', 'Historical']",0.8646086338040841,0.5
+462,218,2024-02-15,2,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,9.034168574407344,Oct-Mar,"['City', 'Historical']",0.7666316509355829,0.25
+762,739,2024-03-20,1,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.372037385587443,Sep-Mar,"['City', 'Historical']",0.434788065383209,0.0
+129,399,2024-01-01,2,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.376325562448297,Sep-Mar,"['City', 'Historical']",0.43693719233722644,0.25
+404,952,2024-02-15,3,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,8.123015873320766,Nov-Mar,"['Nature', 'Adventure']",0.30998471386380816,0.5
+155,567,2024-03-20,5,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,9.187761000514808,Nov-Mar,"['Nature', 'Adventure']",0.8436083320733933,1.0
+944,749,2024-01-01,4,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,8.931736559795393,Sep-Mar,"['Nature', 'Adventure']",0.7152952880242315,0.75
+148,301,2024-02-15,2,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.634308850859137,Nov-Feb,"['Beaches', 'Historical']",0.5662319618396657,0.25
+119,402,2024-03-20,4,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,8.050919516333472,Nov-Mar,"['Nature', 'Adventure']",0.2738518235666939,0.75
+356,993,2024-01-01,2,"Nature, Adventure",Male,1,1,Jaipur City,Rajasthan,City,8.19515468129691,Oct-Mar,"['Nature', 'Adventure']",0.34613887953442574,0.25
+596,926,2024-02-15,5,"Nature, Adventure",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.324741876265339,Nov-Feb,"['Nature', 'Adventure']",0.41108473942760015,1.0
+850,131,2024-03-20,1,"Beaches, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,8.853926858989041,Nov-Feb,"['Beaches', 'Historical']",0.6762990127508122,0.0
+975,828,2024-01-01,3,"City, Historical",Female,1,0,Jaipur City,Rajasthan,City,7.804063905354139,Oct-Mar,"['City', 'Historical']",0.15013396758243922,0.5
+759,969,2024-02-15,1,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,"['City', 'Historical']",0.9546679691900349,0.0
+298,797,2024-03-20,4,"Beaches, Historical",Female,1,2,Goa Beaches,Goa,Beach,9.120638441373126,Nov-Mar,"['Beaches', 'Historical']",0.8099681848138666,0.75
+367,126,2024-01-01,4,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.271757062443388,Nov-Feb,"['Beaches', 'Historical']",0.38453007640102044,0.75
+904,169,2024-02-15,5,"Beaches, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,7.686748942635202,Sep-Mar,"['Beaches', 'Historical']",0.09133864344587389,1.0
+750,401,2024-03-20,2,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.033376557417458,Nov-Feb,"['City', 'Historical']",0.2650597314765092,0.25
+256,242,2024-01-01,3,"Beaches, Historical",Male,2,1,Goa Beaches,Goa,Beach,9.164688152340853,Nov-Mar,"['Beaches', 'Historical']",0.8320447978429685,0.5
+703,82,2024-02-15,2,"Beaches, Historical",Male,2,1,Goa Beaches,Goa,Beach,8.067416540924038,Nov-Mar,"['Beaches', 'Historical']",0.2821197195418643,0.25
+757,126,2024-03-20,2,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,8.271757062443388,Nov-Feb,"['Beaches', 'Historical']",0.38453007640102044,0.25
+526,170,2024-01-01,3,"Beaches, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982805962368,Apr-Jun,"['Beaches', 'Historical']",0.1726461967125487,0.5
+480,389,2024-02-15,1,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,9.40914617773771,Sep-Mar,"['City', 'Historical']",0.9545610439200154,0.0
+782,805,2024-03-20,3,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,"['Nature', 'Adventure']",0.45388499924100933,0.5
+874,315,2024-01-01,3,"Beaches, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,"['Beaches', 'Historical']",0.12137769209839255,0.5
+979,68,2024-02-15,2,"Beaches, Historical",Male,1,2,Jaipur City,Rajasthan,City,7.599766915318256,Oct-Mar,"['Beaches', 'Historical']",0.047745427613654606,0.25
+851,266,2024-03-20,4,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.91877315803813,Nov-Feb,"['Nature', 'Adventure']",0.70879835540314,0.75
+823,939,2024-01-01,3,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,8.40872418732025,Sep-Mar,"['Beaches', 'Historical']",0.4531745725211091,0.5
+127,938,2024-02-15,3,"Beaches, Historical",Female,2,2,Jaipur City,Rajasthan,City,9.20608066746193,Oct-Mar,"['Beaches', 'Historical']",0.8527896907958136,0.5
+250,753,2024-03-20,2,"Beaches, Historical",Male,1,0,Jaipur City,Rajasthan,City,8.594748337394,Oct-Mar,"['Beaches', 'Historical']",0.5464052222807552,0.25
+392,491,2024-01-01,4,"Nature, Adventure",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.20803233304684,Nov-Feb,"['Nature', 'Adventure']",0.3525928363972763,0.75
+621,719,2024-02-15,5,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.603678777019319,Sep-Mar,"['City', 'Historical']",0.550880935184578,1.0
+204,205,2024-03-20,2,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.456754675076878,Apr-Jun,"['City', 'Historical']",0.4772462512792054,0.25
+814,181,2024-01-01,4,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,9.236840653145723,Nov-Feb,"['Beaches', 'Historical']",0.8682058260167543,0.75
+539,282,2024-02-15,4,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,8.888987617087139,Nov-Mar,"['Nature', 'Adventure']",0.6938705875020232,0.75
+677,954,2024-03-20,2,"Nature, Adventure",Male,2,0,Kerala Backwaters,Kerala,Nature,9.192148287990324,Sep-Mar,"['Nature', 'Adventure']",0.8458071307877678,0.25
+299,25,2024-01-01,2,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.416526131108329,Apr-Jun,"['Nature', 'Adventure']",0.9582596919055907,0.25
+883,641,2024-02-15,5,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,8.559749376912812,Nov-Feb,"['Beaches', 'Historical']",0.5288646189489852,1.0
+916,753,2024-03-20,1,"Beaches, Historical",Female,1,2,Jaipur City,Rajasthan,City,8.594748337394,Oct-Mar,"['Beaches', 'Historical']",0.5464052222807552,0.0
+483,66,2024-01-01,1,"City, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.657185750902032,Nov-Feb,"['City', 'Historical']",0.5776972917693552,0.0
+575,311,2024-02-15,2,"Nature, Adventure",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.093952306204637,Nov-Feb,"['Nature', 'Adventure']",0.2954187811851987,0.25
+544,763,2024-03-20,5,"Beaches, Historical",Female,1,1,Jaipur City,Rajasthan,City,8.90257550420428,Oct-Mar,"['Beaches', 'Historical']",0.7006804965610869,1.0
+632,135,2024-01-01,1,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122784522716,Apr-Jun,"['Nature', 'Adventure']",0.949036395041993,0.0
+467,114,2024-02-15,2,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,9.46714704036077,Sep-Mar,"['Nature', 'Adventure']",0.9836296251059741,0.25
+484,617,2024-03-20,4,"Beaches, Historical",Female,2,0,Goa Beaches,Goa,Beach,9.097017238917031,Nov-Mar,"['Beaches', 'Historical']",0.7981298291368601,0.75
+902,676,2024-01-01,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,9.263552559071387,Nov-Feb,"['Nature', 'Adventure']",0.8815931649444197,0.25
+15,222,2024-02-15,1,"City, Historical",Male,1,2,Goa Beaches,Goa,Beach,8.240843057485613,Nov-Mar,"['City', 'Historical']",0.36903675057346685,0.0
+235,281,2024-03-20,1,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,9.43086446632471,Nov-Feb,"['Beaches', 'Historical']",0.9654457067760517,0.0
+402,417,2024-01-01,1,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,7.799317152894507,Nov-Mar,"['City', 'Historical']",0.14775501401171054,0.0
+792,898,2024-02-15,1,"City, Historical",Male,1,0,Jaipur City,Rajasthan,City,8.311533772217603,Oct-Mar,"['City', 'Historical']",0.40446516814088673,0.0
+819,429,2024-03-20,1,"City, Historical",Female,1,1,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,"['City', 'Historical']",0.34179365177577825,0.0
+863,135,2024-01-01,4,"Nature, Adventure",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122784522716,Apr-Jun,"['Nature', 'Adventure']",0.949036395041993,0.75
+436,848,2024-02-15,5,"Beaches, Historical",Female,1,2,Jaipur City,Rajasthan,City,9.02991974288286,Oct-Mar,"['Beaches', 'Historical']",0.7645022428797481,1.0
+868,689,2024-03-20,4,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.133852314473286,Sep-Mar,"['Beaches', 'Historical']",0.3154156670455917,0.75
+608,694,2024-01-01,1,"Nature, Adventure",Male,1,0,Kerala Backwaters,Kerala,Nature,9.22776324553234,Sep-Mar,"['Nature', 'Adventure']",0.8636564564344001,0.0
+146,709,2024-02-15,2,"Nature, Adventure",Female,1,1,Kerala Backwaters,Kerala,Nature,9.155527396194914,Sep-Mar,"['Nature', 'Adventure']",0.8274536560614476,0.25
+936,159,2024-03-20,1,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,8.017566360422618,Sep-Mar,"['City', 'Historical']",0.25713605630813685,0.0
+234,199,2024-01-01,4,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,9.112874173872637,Sep-Mar,"['City', 'Historical']",0.8060769282018012,0.75
+672,250,2024-02-15,1,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.151090722807776,Apr-Jun,"['City', 'Historical']",0.8252301063637861,0.0
+181,869,2024-03-20,1,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,7.67787032728221,Sep-Mar,"['Beaches', 'Historical']",0.08688890357071667,0.0
+662,912,2024-01-01,3,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,9.4380138836961,Nov-Mar,"['Nature', 'Adventure']",0.9690288158867411,0.5
+742,281,2024-02-15,5,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.43086446632471,Nov-Feb,"['Beaches', 'Historical']",0.9654457067760517,1.0
+904,436,2024-03-20,5,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,7.728114076451941,Nov-Feb,"['Beaches', 'Historical']",0.11206981357405578,1.0
+247,291,2024-01-01,2,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.571800372009168,Nov-Feb,"['Beaches', 'Historical']",0.5349042761797165,0.25
+279,494,2024-02-15,5,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.937812540340415,Sep-Mar,"['City', 'Historical']",0.718340417454549,1.0
+51,951,2024-03-20,5,"City, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.365692888254666,Nov-Feb,"['City', 'Historical']",0.4316083620570617,1.0
+180,960,2024-01-01,3,"City, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.925500312367074,Apr-Jun,"['City', 'Historical']",0.7121698368418252,0.5
+5,425,2024-02-15,3,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.677908499077882,Apr-Jun,"['Nature', 'Adventure']",0.08690803431966283,0.5
+537,612,2024-03-20,2,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,7.582948969365619,Nov-Mar,"['City', 'Historical']",0.039316693881151,0.25
+143,939,2024-01-01,1,"Nature, Adventure",Male,1,0,Kerala Backwaters,Kerala,Nature,8.40872418732025,Sep-Mar,"['Nature', 'Adventure']",0.4531745725211091,0.0
+121,945,2024-02-15,5,"Beaches, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.537510610841785,Apr-Jun,"['Beaches', 'Historical']",0.016544125440390633,1.0
+351,636,2024-03-20,1,"City, Historical",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.591103123657849,Nov-Feb,"['City', 'Historical']",0.5445783323581327,0.0
+24,272,2024-01-01,4,"City, Historical",Male,1,2,Goa Beaches,Goa,Beach,7.935193696560209,Nov-Mar,"['City', 'Historical']",0.21585293811471554,0.75
+88,383,2024-02-15,2,"Beaches, Historical",Male,2,1,Jaipur City,Rajasthan,City,8.70695511642636,Oct-Mar,"['Beaches', 'Historical']",0.6026404525585265,0.25
+888,805,2024-03-20,2,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,"['City', 'Historical']",0.45388499924100933,0.25
+353,894,2024-01-01,5,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,8.8155969048925,Sep-Mar,"['Nature', 'Adventure']",0.657088998759289,1.0
+367,912,2024-02-15,4,"Beaches, Historical",Female,1,0,Goa Beaches,Goa,Beach,9.4380138836961,Nov-Mar,"['Beaches', 'Historical']",0.9690288158867411,0.75
+593,775,2024-03-20,1,"Nature, Adventure",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.079156318407351,Apr-Jun,"['Nature', 'Adventure']",0.2880034022914916,0.0
+79,493,2024-01-01,4,"Beaches, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.878936494411294,Oct-Mar,"['Beaches', 'Historical']",0.6888332162923634,0.75
+962,565,2024-02-15,3,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.47880343825541,Apr-Jun,"['Nature', 'Adventure']",0.48829653973216225,0.5
+829,911,2024-03-20,1,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,7.685181358142892,Nov-Feb,"['Beaches', 'Historical']",0.09055300931872856,0.0
+539,684,2024-01-01,1,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,9.465996074743892,Sep-Mar,"['Nature', 'Adventure']",0.9830527899355405,0.0
+298,901,2024-02-15,2,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,7.94384380620817,Nov-Feb,"['Beaches', 'Historical']",0.22018815664764194,0.25
+814,853,2024-03-20,5,"Beaches, Historical",Male,1,2,Jaipur City,Rajasthan,City,9.04694477176505,Oct-Mar,"['Beaches', 'Historical']",0.7730347613954031,1.0
+211,714,2024-01-01,3,"Beaches, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.655670235424626,Sep-Mar,"['Beaches', 'Historical']",0.5769377533297314,0.5
+746,807,2024-02-15,5,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,9.178994029748877,Nov-Mar,"['Nature', 'Adventure']",0.8392145456719634,1.0
+218,258,2024-03-20,1,"Nature, Adventure",Female,2,2,Jaipur City,Rajasthan,City,7.617165381372276,Oct-Mar,"['Nature', 'Adventure']",0.05646510349656754,0.0
+745,386,2024-01-01,3,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,"['Beaches', 'Historical']",0.9817176230561109,0.5
+92,477,2024-02-15,1,"Nature, Adventure",Female,2,0,Goa Beaches,Goa,Beach,9.061411819218064,Nov-Mar,"['Nature', 'Adventure']",0.7802852836185304,0.0
+65,118,2024-03-20,1,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,7.69898565359074,Oct-Mar,"['Nature', 'Adventure']",0.09747137681868355,0.0
+653,217,2024-01-01,4,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,9.14476464169103,Nov-Mar,"['Nature', 'Adventure']",0.8220596327843466,0.75
+365,872,2024-02-15,3,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,"['Nature', 'Adventure']",0.9566570412533837,0.5
+724,161,2024-03-20,5,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.738547101644033,Nov-Feb,"['Beaches', 'Historical']",0.11729858476979492,1.0
+530,677,2024-01-01,4,"Nature, Adventure",Female,2,0,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,"['Nature', 'Adventure']",0.5316698151648137,0.75
+747,145,2024-02-15,5,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.388011428887994,Apr-Jun,"['City', 'Historical']",0.9439688365803511,1.0
+723,670,2024-03-20,2,"City, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.809939225539317,Apr-Jun,"['City', 'Historical']",0.15307853106085267,0.25
+71,840,2024-01-01,4,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.93351873337229,Apr-Jun,"['Nature', 'Adventure']",0.21501348847190735,0.75
+954,518,2024-02-15,5,"City, Historical",Male,2,2,Jaipur City,Rajasthan,City,8.92790148381448,Oct-Mar,"['City', 'Historical']",0.7133732438948195,1.0
+474,899,2024-03-20,1,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.575304720464212,Sep-Mar,"['City', 'Historical']",0.5366605679478467,0.0
+606,872,2024-01-01,2,"City, Historical",Female,2,2,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,"['City', 'Historical']",0.9566570412533837,0.25
+123,49,2024-02-15,2,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,8.0159728308643,Sep-Mar,"['City', 'Historical']",0.25633741916304387,0.25
+799,404,2024-03-20,4,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,9.28938699420442,Sep-Mar,"['Beaches', 'Historical']",0.8945407374648222,0.75
+869,217,2024-01-01,2,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,9.14476464169103,Nov-Mar,"['Nature', 'Adventure']",0.8220596327843466,0.25
+218,484,2024-02-15,3,"Nature, Adventure",Female,2,2,Kerala Backwaters,Kerala,Nature,8.361380335928295,Sep-Mar,"['Nature', 'Adventure']",0.4294470187295929,0.5
+67,653,2024-03-20,4,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,9.496920384788352,Oct-Mar,"['Beaches', 'Historical']",0.9985512804147108,0.75
+786,42,2024-01-01,5,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.854828172623169,Nov-Mar,"['City', 'Historical']",0.6767507285936939,1.0
+335,6,2024-02-15,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.6489495441529245,Nov-Feb,"['Nature', 'Adventure']",0.07239453065390933,0.25
+429,752,2024-03-20,4,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.539108136038704,Nov-Mar,"['City', 'Historical']",0.518519745459304,0.75
+931,897,2024-01-01,1,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,8.342976753551683,Nov-Mar,"['Beaches', 'Historical']",0.42022360369344586,0.0
+846,389,2024-02-15,2,"City, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,9.40914617773771,Sep-Mar,"['City', 'Historical']",0.9545610439200154,0.25
+904,576,2024-03-20,1,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,8.450301921040447,Nov-Feb,"['Beaches', 'Historical']",0.474012292401731,0.0
+359,864,2024-01-01,4,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,9.147968243343048,Sep-Mar,"['Nature', 'Adventure']",0.8236651977793771,0.75
+888,75,2024-02-15,4,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.051674304536373,Apr-Jun,"['City', 'Historical']",0.27423010452945845,0.75
+413,984,2024-03-20,1,"Nature, Adventure",Female,2,2,Kerala Backwaters,Kerala,Nature,7.748098699266505,Sep-Mar,"['Nature', 'Adventure']",0.12208560652064111,0.0
+594,277,2024-01-01,1,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.694303252963497,Nov-Mar,"['City', 'Historical']",0.5962996551360118,0.0
+443,67,2024-02-15,2,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,7.593468221686345,Nov-Mar,"['Nature', 'Adventure']",0.044588679956390063,0.25
+878,421,2024-03-20,3,"Nature, Adventure",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.912423770627766,Nov-Feb,"['Nature', 'Adventure']",0.7056162012924547,0.5
+461,788,2024-01-01,4,"Nature, Adventure",Female,1,0,Jaipur City,Rajasthan,City,8.223627062910356,Oct-Mar,"['Nature', 'Adventure']",0.36040852483033975,0.75
+966,253,2024-02-15,2,"City, Historical",Female,1,0,Jaipur City,Rajasthan,City,8.125034098865065,Oct-Mar,"['City', 'Historical']",0.3109961980113339,0.25
+976,683,2024-03-20,3,"Beaches, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.419040819940108,Oct-Mar,"['Beaches', 'Historical']",0.45834501067174505,0.5
+725,480,2024-01-01,5,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.183226466821637,Apr-Jun,"['Nature', 'Adventure']",0.8413357372387777,1.0
+141,707,2024-02-15,2,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.629118750166763,Nov-Mar,"['City', 'Historical']",0.5636308132271001,0.25
+109,405,2024-03-20,5,"Beaches, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.266309519533893,Apr-Jun,"['Beaches', 'Historical']",0.3817999041903454,1.0
+765,908,2024-01-01,5,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.452641011322342,Oct-Mar,"['City', 'Historical']",0.4751845859278193,1.0
+165,519,2024-02-15,3,"City, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,7.772507901461253,Sep-Mar,"['City', 'Historical']",0.13431888795119065,0.5
+852,79,2024-03-20,4,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.48262944456915,Sep-Mar,"['City', 'Historical']",0.49021403837130745,0.75
+201,774,2024-01-01,3,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.038663649202402,Sep-Mar,"['City', 'Historical']",0.2677094895979882,0.5
+359,678,2024-02-15,2,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,8.104480470792156,Oct-Mar,"['Nature', 'Adventure']",0.30069523386557273,0.25
+832,122,2024-03-20,1,"Beaches, Historical",Female,2,1,Goa Beaches,Goa,Beach,7.791202932648026,Nov-Mar,"['Beaches', 'Historical']",0.14368836983904573,0.0
+828,434,2024-01-01,2,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,"['City', 'Historical']",0.6027901196056648,0.25
+15,701,2024-02-15,2,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.814028636189173,Nov-Feb,"['City', 'Historical']",0.6563030217227003,0.25
+548,880,2024-03-20,4,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358263288,Apr-Jun,"['Nature', 'Adventure']",0.4702276380752029,0.75
+368,290,2024-01-01,5,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.934186545996741,Apr-Jun,"['Nature', 'Adventure']",0.21534817945085022,1.0
+754,555,2024-02-15,1,"Beaches, Historical",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,"['Beaches', 'Historical']",0.7706450315134231,0.0
+426,966,2024-03-20,2,"City, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,9.140527124056437,Nov-Feb,"['City', 'Historical']",0.8199358949670555,0.25
+287,253,2024-01-01,4,"Nature, Adventure",Female,1,2,Jaipur City,Rajasthan,City,8.125034098865065,Oct-Mar,"['Nature', 'Adventure']",0.3109961980113339,0.75
+166,698,2024-02-15,1,"Beaches, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.305889899010864,Oct-Mar,"['Beaches', 'Historical']",0.40163660009734703,0.0
+862,525,2024-03-20,3,"Beaches, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.090624068994547,Apr-Jun,"['Beaches', 'Historical']",0.29375075196679956,0.5
+798,394,2024-01-01,3,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.884525796968724,Sep-Mar,"['City', 'Historical']",0.691634434891808,0.5
+252,618,2024-02-15,3,"City, Historical",Male,2,2,Jaipur City,Rajasthan,City,8.39215366577806,Oct-Mar,"['City', 'Historical']",0.44486984171265226,0.5
+247,361,2024-03-20,4,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.134764369094412,Nov-Feb,"['Beaches', 'Historical']",0.3158727660024219,0.75
+585,801,2024-01-01,4,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,9.157148625977571,Nov-Feb,"['City', 'Historical']",0.8282661758659293,0.75
+538,837,2024-02-15,1,"Beaches, Historical",Female,2,1,Goa Beaches,Goa,Beach,9.49270628520052,Nov-Mar,"['Beaches', 'Historical']",0.996439279136545,0.0
+790,380,2024-03-20,3,"Beaches, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.658172608842527,Apr-Jun,"['Beaches', 'Historical']",0.5781918802783006,0.5
+767,592,2024-01-01,5,"Nature, Adventure",Female,2,2,Goa Beaches,Goa,Beach,9.168100701200414,Nov-Mar,"['Nature', 'Adventure']",0.8337550819506357,1.0
+259,336,2024-02-15,4,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.26879230848542,Nov-Feb,"['Beaches', 'Historical']",0.8842191962540874,0.75
+259,879,2024-03-20,5,"Beaches, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,8.309631133912779,Sep-Mar,"['Beaches', 'Historical']",0.40351161342583514,1.0
+123,622,2024-01-01,4,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.642272298087951,Nov-Mar,"['City', 'Historical']",0.5702230423481623,0.75
+298,134,2024-02-15,1,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,7.743269418238725,Sep-Mar,"['Beaches', 'Historical']",0.11966529169639203,0.0
+503,926,2024-03-20,5,"Nature, Adventure",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.324741876265339,Nov-Feb,"['Nature', 'Adventure']",0.41108473942760015,1.0
+647,366,2024-01-01,3,"Nature, Adventure",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.266030293290664,Nov-Feb,"['Nature', 'Adventure']",0.8828349433431022,0.5
+232,86,2024-02-15,4,"Beaches, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,8.093807911279,Nov-Feb,"['Beaches', 'Historical']",0.2953464140611791,0.75
+91,153,2024-03-20,5,"Beaches, Historical",Male,2,1,Jaipur City,Rajasthan,City,9.072635913777948,Oct-Mar,"['Beaches', 'Historical']",0.7859105189891359,1.0
+735,7,2024-01-01,3,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,9.14506834197403,Nov-Mar,"['City', 'Historical']",0.8222118397677145,0.5
+321,805,2024-02-15,4,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,"['City', 'Historical']",0.45388499924100933,0.75
+252,504,2024-03-20,1,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,7.992592263408194,Sep-Mar,"['City', 'Historical']",0.24461966372743094,0.0
+238,647,2024-01-01,5,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,9.00875189802598,Nov-Mar,"['Beaches', 'Historical']",0.7538934486493437,1.0
+582,518,2024-02-15,4,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,8.92790148381448,Oct-Mar,"['City', 'Historical']",0.7133732438948195,0.75
+315,496,2024-03-20,2,"City, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,8.265509612154226,Nov-Feb,"['City', 'Historical']",0.3813990106250511,0.25
+537,287,2024-01-01,1,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,9.171525350501778,Nov-Mar,"['City', 'Historical']",0.8354714304969856,0.0
+33,978,2024-02-15,4,"City, Historical",Male,2,2,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,"['City', 'Historical']",0.5085289401191753,0.75
+133,242,2024-03-20,4,"Beaches, Historical",Male,2,2,Goa Beaches,Goa,Beach,9.164688152340853,Nov-Mar,"['Beaches', 'Historical']",0.8320447978429685,0.75
+444,327,2024-01-01,2,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.382390141309063,Nov-Mar,"['City', 'Historical']",0.43997660752866075,0.25
+518,251,2024-02-15,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.041916757088895,Nov-Feb,"['Nature', 'Adventure']",0.26933986587910963,0.25
+610,87,2024-03-20,5,"Beaches, Historical",Male,1,1,Goa Beaches,Goa,Beach,8.322799778823294,Nov-Mar,"['Beaches', 'Historical']",0.4101114087802265,1.0
+555,972,2024-01-01,4,"City, Historical",Female,1,2,Goa Beaches,Goa,Beach,9.215187537133938,Nov-Mar,"['City', 'Historical']",0.8573538260248209,0.75
+644,545,2024-02-15,5,"Nature, Adventure",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.661289356429886,Apr-Jun,"['Nature', 'Adventure']",0.07857893582945799,1.0
+733,638,2024-03-20,3,"Beaches, Historical",Female,1,1,Jaipur City,Rajasthan,City,9.315119560288965,Oct-Mar,"['Beaches', 'Historical']",0.907437255766849,0.5
+717,969,2024-01-01,1,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,"['City', 'Historical']",0.9546679691900349,0.0
+343,80,2024-02-15,3,"Beaches, Historical",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.167168852535996,Apr-Jun,"['Beaches', 'Historical']",0.8332880627145477,0.5
+887,408,2024-03-20,3,"Nature, Adventure",Female,1,0,Jaipur City,Rajasthan,City,7.789753610332566,Oct-Mar,"['Nature', 'Adventure']",0.1429620057560603,0.5
+341,613,2024-01-01,4,"Nature, Adventure",Male,1,1,Jaipur City,Rajasthan,City,7.893422691754661,Oct-Mar,"['Nature', 'Adventure']",0.19491835560168924,0.75
+575,957,2024-02-15,5,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,9.319617878220548,Nov-Mar,"['Nature', 'Adventure']",0.9096917001678619,1.0
+70,41,2024-03-20,3,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,9.45205627034071,Nov-Feb,"['Beaches', 'Historical']",0.9760665087375578,0.5
+409,544,2024-01-01,3,"Beaches, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.517940732286046,Sep-Mar,"['Beaches', 'Historical']",0.5079111722992992,0.5
+874,117,2024-02-15,2,"Beaches, Historical",Male,2,0,Goa Beaches,Goa,Beach,9.21979801445382,Nov-Mar,"['Beaches', 'Historical']",0.8596644819050621,0.25
+419,192,2024-03-20,4,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,8.419905788920559,Nov-Mar,"['Nature', 'Adventure']",0.45877851148353455,0.75
+80,873,2024-01-01,1,"Nature, Adventure",Female,1,2,Jaipur City,Rajasthan,City,9.231967797202106,Oct-Mar,"['Nature', 'Adventure']",0.8657636725349163,0.0
+794,853,2024-02-15,4,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,9.04694477176505,Oct-Mar,"['Nature', 'Adventure']",0.7730347613954031,0.75
+784,904,2024-03-20,1,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.574376628395806,Sep-Mar,"['Beaches', 'Historical']",0.5361954314236912,0.0
+606,513,2024-01-01,4,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,9.319083493307607,Oct-Mar,"['City', 'Historical']",0.9094238798196144,0.75
+436,425,2024-02-15,1,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.677908499077882,Apr-Jun,"['Beaches', 'Historical']",0.08690803431966283,0.0
+92,101,2024-03-20,3,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.35787687156371,Nov-Feb,"['Nature', 'Adventure']",0.9288661504052037,0.5
+942,289,2024-01-01,3,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,7.844009444111711,Sep-Mar,"['City', 'Historical']",0.1701536721847236,0.5
+128,330,2024-02-15,3,"Nature, Adventure",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.63573528781037,Apr-Jun,"['Nature', 'Adventure']",0.06577187599096107,0.5
+835,523,2024-03-20,5,"Beaches, Historical",Female,2,2,Jaipur City,Rajasthan,City,8.998307150645953,Oct-Mar,"['Beaches', 'Historical']",0.748658802586296,1.0
+715,786,2024-01-01,2,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.389205905418272,Nov-Feb,"['Beaches', 'Historical']",0.44339249797223024,0.25
+126,983,2024-02-15,3,"City, Historical",Female,1,0,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,"['City', 'Historical']",0.7897096288519015,0.5
+956,597,2024-03-20,3,"Nature, Adventure",Male,1,0,Goa Beaches,Goa,Beach,7.735247906037738,Nov-Mar,"['Nature', 'Adventure']",0.11564511047660721,0.5
+319,998,2024-01-01,4,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.308435430056575,Oct-Mar,"['Beaches', 'Historical']",0.40291235656918584,0.75
+917,601,2024-02-15,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.679434820985951,Nov-Feb,"['Nature', 'Adventure']",0.08767298867196203,0.25
+430,164,2024-03-20,3,"Beaches, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,7.81836693407545,Sep-Mar,"['Beaches', 'Historical']",0.15730228772092664,0.5
+592,983,2024-01-01,3,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,"['Beaches', 'Historical']",0.7897096288519015,0.5
+680,135,2024-02-15,1,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122784522716,Apr-Jun,"['Nature', 'Adventure']",0.949036395041993,0.0
+209,357,2024-03-20,4,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,8.314502184896275,Nov-Mar,"['Nature', 'Adventure']",0.40595286230682004,0.75
+876,8,2024-01-01,5,"City, Historical",Male,2,2,Jaipur City,Rajasthan,City,9.4587045393854,Oct-Mar,"['City', 'Historical']",0.979398454845456,1.0
+923,892,2024-02-15,3,"Nature, Adventure",Female,2,2,Goa Beaches,Goa,Beach,8.86432839457484,Nov-Mar,"['Nature', 'Adventure']",0.6815120021437362,0.5
+688,818,2024-03-20,2,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.385706717073933,Oct-Mar,"['Beaches', 'Historical']",0.4416387923224812,0.25
+757,36,2024-01-01,5,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,8.152769658316458,Nov-Feb,"['Beaches', 'Historical']",0.3248965664746519,1.0
+424,75,2024-02-15,1,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.051674304536373,Apr-Jun,"['Beaches', 'Historical']",0.27423010452945845,0.0
+518,170,2024-03-20,2,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982805962368,Apr-Jun,"['Nature', 'Adventure']",0.1726461967125487,0.25
+598,886,2024-01-01,3,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,"['Beaches', 'Historical']",0.10452869297973902,0.5
+390,381,2024-02-15,5,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,9.30052503102598,Nov-Feb,"['City', 'Historical']",0.9001228428501135,1.0
+263,278,2024-03-20,2,"Nature, Adventure",Male,1,1,Jaipur City,Rajasthan,City,9.120385789350228,Oct-Mar,"['Nature', 'Adventure']",0.809841561941253,0.25
+408,403,2024-01-01,2,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.578600554982318,Oct-Mar,"['City', 'Historical']",0.5383123577477272,0.25
+907,417,2024-02-15,3,"Beaches, Historical",Female,2,2,Goa Beaches,Goa,Beach,7.799317152894507,Nov-Mar,"['Beaches', 'Historical']",0.14775501401171054,0.5
+343,424,2024-03-20,5,"Beaches, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,8.016517304482331,Sep-Mar,"['Beaches', 'Historical']",0.2566102957178672,1.0
+27,130,2024-01-01,1,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.46063445778344,Apr-Jun,"['City', 'Historical']",0.9803656816606899,0.0
+607,552,2024-02-15,5,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,8.564998979974378,Nov-Mar,"['Beaches', 'Historical']",0.5314955886602619,1.0
+653,756,2024-03-20,4,"Nature, Adventure",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.54760827518156,Nov-Feb,"['Nature', 'Adventure']",0.5227798025272793,0.75
+153,720,2024-01-01,4,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.034817273030939,Apr-Jun,"['City', 'Historical']",0.26578178209579906,0.75
+186,986,2024-02-15,2,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.108715094313126,Nov-Feb,"['City', 'Historical']",0.3028175212255258,0.25
+499,830,2024-03-20,3,"Beaches, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.928094923060946,Apr-Jun,"['Beaches', 'Historical']",0.2122952104456443,0.5
+442,827,2024-01-01,2,"Beaches, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.377495779286125,Nov-Mar,"['Beaches', 'Historical']",0.43752367573794143,0.25
+321,229,2024-02-15,5,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,7.603935909874509,Sep-Mar,"['City', 'Historical']",0.04983482337850465,1.0
+416,274,2024-03-20,3,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,7.777024607207728,Sep-Mar,"['Nature', 'Adventure']",0.13658254786497057,0.5
+80,49,2024-01-01,2,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,8.0159728308643,Sep-Mar,"['Nature', 'Adventure']",0.25633741916304387,0.25
+708,395,2024-02-15,2,"City, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809066051,Apr-Jun,"['City', 'Historical']",0.688900030261843,0.25
+971,767,2024-03-20,2,"Nature, Adventure",Female,2,2,Goa Beaches,Goa,Beach,8.24362221802096,Nov-Mar,"['Nature', 'Adventure']",0.37042959630018596,0.25
+579,211,2024-01-01,4,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.188261257930963,Nov-Feb,"['City', 'Historical']",0.34268406821438624,0.75
+560,38,2024-02-15,1,"Nature, Adventure",Female,1,1,Jaipur City,Rajasthan,City,9.458687607787096,Oct-Mar,"['Nature', 'Adventure']",0.979389969152009,0.0
+837,109,2024-03-20,3,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.024075275103758,Sep-Mar,"['City', 'Historical']",0.2603981614956203,0.5
+415,216,2024-01-01,4,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,9.36720219996661,Nov-Feb,"['Beaches', 'Historical']",0.9335397716843751,0.75
+864,410,2024-02-15,2,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239628784924,Apr-Jun,"['City', 'Historical']",0.777693111179785,0.25
+584,757,2024-03-20,3,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,7.644463430707246,Nov-Mar,"['Nature', 'Adventure']",0.07014620283587986,0.5
+992,62,2024-01-01,4,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,9.379786903532915,Nov-Mar,"['Nature', 'Adventure']",0.9398469102470515,0.75
+682,335,2024-02-15,2,"Beaches, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.310237104496576,Apr-Jun,"['Beaches', 'Historical']",0.9049902910809913,0.25
+725,29,2024-03-20,1,"Nature, Adventure",Male,1,1,Kerala Backwaters,Kerala,Nature,8.320514389999829,Sep-Mar,"['Nature', 'Adventure']",0.40896602908151225,0.0
+550,33,2024-01-01,2,"Beaches, Historical",Male,1,0,Jaipur City,Rajasthan,City,7.684440449007848,Oct-Mar,"['Beaches', 'Historical']",0.0901816841975245,0.25
+572,699,2024-02-15,4,"Nature, Adventure",Female,2,2,Kerala Backwaters,Kerala,Nature,7.6569626144692755,Sep-Mar,"['Nature', 'Adventure']",0.07641048101232763,0.75
+696,307,2024-03-20,3,"City, Historical",Male,1,1,Goa Beaches,Goa,Beach,8.41986035294417,Nov-Mar,"['City', 'Historical']",0.45875574010896003,0.5
+803,177,2024-01-01,5,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,9.446896779006565,Nov-Mar,"['Nature', 'Adventure']",0.9734807007695011,1.0
+352,643,2024-02-15,1,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,9.300321813290449,Oct-Mar,"['Beaches', 'Historical']",0.9000209952054995,0.0
+283,952,2024-03-20,5,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,8.123015873320766,Nov-Mar,"['Beaches', 'Historical']",0.30998471386380816,1.0
+844,346,2024-01-01,3,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,"['Beaches', 'Historical']",0.7344472167803596,0.5
+690,388,2024-02-15,2,"City, Historical",Male,2,2,Jaipur City,Rajasthan,City,9.151665484353009,Oct-Mar,"['City', 'Historical']",0.8255181624699296,0.25
+503,139,2024-03-20,4,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,8.426322913287258,Sep-Mar,"['Nature', 'Adventure']",0.46199461366198086,0.75
+987,754,2024-01-01,5,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.084015245138538,Sep-Mar,"['City', 'Historical']",0.29043857480056334,1.0
+743,614,2024-02-15,4,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,9.003574785226348,Sep-Mar,"['Nature', 'Adventure']",0.7512988092436679,0.75
+182,7,2024-03-20,5,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,9.14506834197403,Nov-Mar,"['Nature', 'Adventure']",0.8222118397677145,1.0
+821,469,2024-01-01,3,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,8.661784765251305,Sep-Mar,"['Nature', 'Adventure']",0.580002202695526,0.5
+252,997,2024-02-15,3,"City, Historical",Male,2,2,Goa Beaches,Goa,Beach,8.203518828553301,Nov-Mar,"['City', 'Historical']",0.350330780871374,0.5
+283,227,2024-03-20,5,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,8.882153318904079,Nov-Mar,"['Beaches', 'Historical']",0.6904454082443556,1.0
+87,14,2024-01-01,4,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,8.551426230833268,Sep-Mar,"['City', 'Historical']",0.5246932663760386,0.75
+273,319,2024-02-15,3,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.84963555984027,Sep-Mar,"['City', 'Historical']",0.6741483209842087,0.5
+962,549,2024-03-20,4,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,9.251772000884309,Sep-Mar,"['Nature', 'Adventure']",0.875689043926384,0.75
+919,413,2024-01-01,2,"Beaches, Historical",Female,1,1,Jaipur City,Rajasthan,City,9.164900243709798,Oct-Mar,"['Beaches', 'Historical']",0.8321510927306343,0.25
+55,271,2024-02-15,4,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.23228996203718,Nov-Feb,"['Beaches', 'Historical']",0.8659251334898072,0.75
+454,676,2024-03-20,2,"Beaches, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,9.263552559071387,Nov-Feb,"['Beaches', 'Historical']",0.8815931649444197,0.25
+530,90,2024-01-01,4,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.864848872360961,Apr-Jun,"['Nature', 'Adventure']",0.18059787222824927,0.75
+530,431,2024-02-15,4,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.45973062297419,Nov-Feb,"['Nature', 'Adventure']",0.47873772190819225,0.75
+748,441,2024-03-20,2,"Beaches, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,7.865953290683349,Nov-Feb,"['Beaches', 'Historical']",0.18115137905928103,0.25
+991,346,2024-01-01,1,"Beaches, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,"['Beaches', 'Historical']",0.7344472167803596,0.0
+189,978,2024-02-15,3,"City, Historical",Female,1,1,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,"['City', 'Historical']",0.5085289401191753,0.5
+117,366,2024-03-20,1,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,9.266030293290664,Nov-Feb,"['City', 'Historical']",0.8828349433431022,0.0
+711,979,2024-01-01,3,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.08174574800675,Sep-Mar,"['City', 'Historical']",0.7904761399798361,0.5
+80,648,2024-02-15,3,"Nature, Adventure",Female,1,2,Jaipur City,Rajasthan,City,8.771306422116705,Oct-Mar,"['Nature', 'Adventure']",0.6348917169240074,0.5
+827,221,2024-03-20,3,"Nature, Adventure",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,8.719051821566694,Nov-Feb,"['Nature', 'Adventure']",0.6087030185196504,0.5
+684,281,2024-01-01,2,"City, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.43086446632471,Nov-Feb,"['City', 'Historical']",0.9654457067760517,0.25
+847,931,2024-02-15,4,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,9.309322896703316,Nov-Feb,"['Beaches', 'Historical']",0.9045321130081595,0.75
+620,624,2024-03-20,4,"Nature, Adventure",Male,2,0,Kerala Backwaters,Kerala,Nature,8.331131728498399,Sep-Mar,"['Nature', 'Adventure']",0.4142871734950054,0.75
+701,327,2024-01-01,5,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,8.382390141309063,Nov-Mar,"['Nature', 'Adventure']",0.43997660752866075,1.0
+777,590,2024-02-15,2,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.17109010854659,Apr-Jun,"['City', 'Historical']",0.3340783177589194,0.25
+91,954,2024-03-20,3,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.192148287990324,Sep-Mar,"['Beaches', 'Historical']",0.8458071307877678,0.5
+42,189,2024-01-01,2,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.649611762507414,Sep-Mar,"['City', 'Historical']",0.5739013982844375,0.25
+115,50,2024-02-15,3,"Beaches, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.18047732584072,Apr-Jun,"['Beaches', 'Historical']",0.3387829562019372,0.5
+8,50,2024-03-20,5,"Nature, Adventure",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.18047732584072,Apr-Jun,"['Nature', 'Adventure']",0.3387829562019372,1.0
+943,990,2024-01-01,5,"Beaches, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.117425964659915,Apr-Jun,"['Beaches', 'Historical']",0.30718319150049395,1.0
+537,562,2024-02-15,2,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,9.310527198750878,Nov-Mar,"['City', 'Historical']",0.9051356790631934,0.25
+63,825,2024-03-20,2,"City, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.943715893520679,Apr-Jun,"['City', 'Historical']",0.22012405000900093,0.25
+172,946,2024-01-01,1,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.012249945176515,Nov-Feb,"['Beaches', 'Historical']",0.2544716020015871,0.0
+800,363,2024-02-15,3,"Nature, Adventure",Female,1,2,Jaipur City,Rajasthan,City,8.857005319987184,Oct-Mar,"['Nature', 'Adventure']",0.6778418603810947,0.5
+368,263,2024-03-20,3,"Nature, Adventure",Male,1,0,Jaipur City,Rajasthan,City,9.407835019184882,Oct-Mar,"['Nature', 'Adventure']",0.9539039240580529,0.5
+685,955,2024-01-01,1,"Beaches, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.10676258457348,Apr-Jun,"['Beaches', 'Historical']",0.30183897219510597,0.0
+878,239,2024-02-15,1,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,8.757659224866991,Sep-Mar,"['Nature', 'Adventure']",0.6280520831104166,0.0
+423,901,2024-03-20,5,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,7.94384380620817,Nov-Feb,"['City', 'Historical']",0.22018815664764194,1.0
+594,285,2024-01-01,1,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.992391383757372,Apr-Jun,"['City', 'Historical']",0.7456939682320988,0.0
+224,889,2024-02-15,4,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,9.002930521303405,Sep-Mar,"['Nature', 'Adventure']",0.7509759202847403,0.75
+747,677,2024-03-20,1,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.565346616052354,Nov-Mar,"['City', 'Historical']",0.5316698151648137,0.0
+318,372,2024-01-01,3,"City, Historical",Female,2,0,Goa Beaches,Goa,Beach,7.824610910350504,Nov-Mar,"['City', 'Historical']",0.16043161240794346,0.5
+288,958,2024-02-15,3,"City, Historical",Female,1,1,Jaipur City,Rajasthan,City,7.932950633090041,Oct-Mar,"['City', 'Historical']",0.21472877082410857,0.5
+8,204,2024-03-20,5,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,7.96348370355229,Sep-Mar,"['Nature', 'Adventure']",0.23003118181334853,1.0
+653,413,2024-01-01,4,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,9.164900243709798,Oct-Mar,"['Nature', 'Adventure']",0.8321510927306343,0.75
+949,509,2024-02-15,4,"Beaches, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,9.25204552164384,Sep-Mar,"['Beaches', 'Historical']",0.8758261256876702,0.75
+567,996,2024-03-20,5,"City, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,"['City', 'Historical']",0.31539856512179076,1.0
+628,35,2024-01-01,5,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.115627955366532,Apr-Jun,"['Beaches', 'Historical']",0.30628207422819614,1.0
+801,209,2024-02-15,5,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,7.650543289908463,Sep-Mar,"['City', 'Historical']",0.07319327615163988,1.0
+53,938,2024-03-20,5,"Nature, Adventure",Male,2,2,Jaipur City,Rajasthan,City,9.20608066746193,Oct-Mar,"['Nature', 'Adventure']",0.8527896907958136,1.0
+762,964,2024-01-01,5,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.86184135941464,Sep-Mar,"['City', 'Historical']",0.6802655623461688,1.0
+463,204,2024-02-15,1,"Beaches, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,7.96348370355229,Sep-Mar,"['Beaches', 'Historical']",0.23003118181334853,0.0
+121,235,2024-03-20,2,"Beaches, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.734064597506109,Apr-Jun,"['Beaches', 'Historical']",0.6162270462062314,0.25
+437,203,2024-01-01,2,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,9.04284018561824,Oct-Mar,"['Nature', 'Adventure']",0.7709776455138913,0.25
+642,434,2024-02-15,4,"City, Historical",Female,1,1,Kerala Backwaters,Kerala,Nature,8.707253748746416,Sep-Mar,"['City', 'Historical']",0.6027901196056648,0.75
+344,859,2024-03-20,2,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,7.921623278868692,Sep-Mar,"['Nature', 'Adventure']",0.20905178429469648,0.25
+316,975,2024-01-01,3,"Beaches, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722103503646,Apr-Jun,"['Beaches', 'Historical']",0.6396106208581807,0.5
+592,216,2024-02-15,3,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.36720219996661,Nov-Feb,"['Beaches', 'Historical']",0.9335397716843751,0.5
+858,250,2024-03-20,3,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.151090722807776,Apr-Jun,"['City', 'Historical']",0.8252301063637861,0.5
+835,261,2024-01-01,2,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.083688761192684,Nov-Feb,"['Beaches', 'Historical']",0.29027494921541247,0.25
+335,520,2024-02-15,4,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.521876495404149,Apr-Jun,"['Nature', 'Adventure']",0.5098836783027146,0.75
+496,333,2024-03-20,1,"Beaches, Historical",Male,1,1,Jaipur City,Rajasthan,City,7.632343966795443,Oct-Mar,"['Beaches', 'Historical']",0.06407223074791185,0.0
+13,994,2024-01-01,2,"Beaches, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,8.165291117364324,Sep-Mar,"['Beaches', 'Historical']",0.3311720084670412,0.25
+69,170,2024-02-15,2,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.848982805962368,Apr-Jun,"['City', 'Historical']",0.1726461967125487,0.25
+215,242,2024-03-20,5,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,9.164688152340853,Nov-Mar,"['Nature', 'Adventure']",0.8320447978429685,1.0
+35,977,2024-01-01,4,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,8.499576395856343,Nov-Mar,"['Nature', 'Adventure']",0.49870742634982307,0.75
+778,951,2024-02-15,5,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.365692888254666,Nov-Feb,"['Beaches', 'Historical']",0.4316083620570617,1.0
+578,91,2024-03-20,4,"Nature, Adventure",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,8.775155892425978,Nov-Feb,"['Nature', 'Adventure']",0.6368209751306526,0.75
+261,120,2024-01-01,1,"City, Historical",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.928950861748308,Apr-Jun,"['City', 'Historical']",0.21272418550047215,0.0
+673,288,2024-02-15,1,"Beaches, Historical",Female,2,2,Jaipur City,Rajasthan,City,8.1727822883656,Oct-Mar,"['Beaches', 'Historical']",0.33492639594647666,0.0
+527,352,2024-03-20,1,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,7.946596794608405,Nov-Mar,"['Nature', 'Adventure']",0.22156788555506052,0.0
+163,58,2024-01-01,4,"Beaches, Historical",Female,2,2,Jaipur City,Rajasthan,City,8.648115222412239,Oct-Mar,"['Beaches', 'Historical']",0.5731513698316306,0.75
+578,205,2024-02-15,1,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.456754675076878,Apr-Jun,"['Nature', 'Adventure']",0.4772462512792054,0.0
+311,965,2024-03-20,5,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.636537892208446,Apr-Jun,"['Nature', 'Adventure']",0.567349101594127,1.0
+242,459,2024-01-01,5,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,8.231034030468606,Sep-Mar,"['Nature', 'Adventure']",0.36412071165087084,1.0
+73,315,2024-02-15,1,"Beaches, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,"['Beaches', 'Historical']",0.12137769209839255,0.0
+779,799,2024-03-20,1,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,9.078902378388406,Sep-Mar,"['Nature', 'Adventure']",0.7890511142672074,0.0
+446,115,2024-01-01,4,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.717346793179837,Apr-Jun,"['Nature', 'Adventure']",0.6078485009513547,0.75
+320,168,2024-02-15,1,"Nature, Adventure",Female,2,0,Jaipur City,Rajasthan,City,7.634504263080543,Oct-Mar,"['Nature', 'Adventure']",0.06515491719616777,0.0
+639,545,2024-03-20,5,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.661289356429886,Apr-Jun,"['City', 'Historical']",0.07857893582945799,1.0
+733,676,2024-01-01,5,"Beaches, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,9.263552559071387,Nov-Feb,"['Beaches', 'Historical']",0.8815931649444197,1.0
+572,413,2024-02-15,5,"Nature, Adventure",Female,2,2,Jaipur City,Rajasthan,City,9.164900243709798,Oct-Mar,"['Nature', 'Adventure']",0.8321510927306343,1.0
+168,932,2024-03-20,2,"City, Historical",Female,1,2,Goa Beaches,Goa,Beach,7.936004330312837,Nov-Mar,"['City', 'Historical']",0.2162592074697681,0.25
+114,485,2024-01-01,5,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.307482015375824,Apr-Jun,"['City', 'Historical']",0.9036095093450089,1.0
+282,119,2024-02-15,3,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.953643159740016,Sep-Mar,"['City', 'Historical']",0.7262743278212264,0.5
+359,353,2024-03-20,4,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,9.29747082018926,Oct-Mar,"['Nature', 'Adventure']",0.8985921487940053,0.75
+2,437,2024-01-01,2,"Nature, Adventure",Male,2,2,Goa Beaches,Goa,Beach,7.987106149468621,Nov-Mar,"['Nature', 'Adventure']",0.24187016068151435,0.25
+777,71,2024-02-15,3,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,7.918856059125499,Nov-Feb,"['City', 'Historical']",0.2076649229942507,0.5
+67,835,2024-03-20,4,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.622267855355735,Apr-Jun,"['Beaches', 'Historical']",0.5601973161547371,0.75
+346,113,2024-01-01,2,"Beaches, Historical",Male,2,2,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,"['Beaches', 'Historical']",0.03610192879730586,0.25
+736,970,2024-02-15,2,"Beaches, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.01310124502825,Apr-Jun,"['Beaches', 'Historical']",0.756073232547784,0.25
+932,850,2024-03-20,5,"Nature, Adventure",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.64491136642723,Apr-Jun,"['Nature', 'Adventure']",0.5715456773712687,1.0
+718,555,2024-01-01,1,"Beaches, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,"['Beaches', 'Historical']",0.7706450315134231,0.0
+534,361,2024-02-15,2,"City, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.134764369094412,Nov-Feb,"['City', 'Historical']",0.3158727660024219,0.25
+743,324,2024-03-20,1,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,7.662104838922936,Sep-Mar,"['Nature', 'Adventure']",0.07898763525189612,0.0
+17,610,2024-01-01,4,"Nature, Adventure",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.940660734256079,Apr-Jun,"['Nature', 'Adventure']",0.21859288062456944,0.75
+319,784,2024-02-15,4,"Beaches, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,8.317882740052342,Sep-Mar,"['Beaches', 'Historical']",0.4076471119707668,0.75
+954,166,2024-03-20,4,"City, Historical",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,7.967520190746358,Nov-Feb,"['City', 'Historical']",0.23205416820355756,0.75
+368,696,2024-01-01,3,"Nature, Adventure",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,8.627961321716496,Nov-Feb,"['Nature', 'Adventure']",0.56305073904627,0.5
+293,204,2024-02-15,3,"Nature, Adventure",Female,1,0,Kerala Backwaters,Kerala,Nature,7.96348370355229,Sep-Mar,"['Nature', 'Adventure']",0.23003118181334853,0.5
+723,748,2024-03-20,3,"City, Historical",Female,1,2,Jaipur City,Rajasthan,City,8.719936425969232,Oct-Mar,"['City', 'Historical']",0.6091463601137185,0.5
+434,396,2024-01-01,1,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,9.113864702192004,Nov-Feb,"['Nature', 'Adventure']",0.8065733562128057,0.0
+707,404,2024-02-15,2,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,9.28938699420442,Sep-Mar,"['Nature', 'Adventure']",0.8945407374648222,0.25
+466,730,2024-03-20,5,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.896272170257733,Apr-Jun,"['Beaches', 'Historical']",0.19634644293450187,1.0
+306,102,2024-01-01,3,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,7.901206474541698,Nov-Mar,"['City', 'Historical']",0.19881939278710678,0.5
+586,433,2024-02-15,5,"Beaches, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.683728793384567,Oct-Mar,"['Beaches', 'Historical']",0.5910000005642271,1.0
+341,499,2024-03-20,1,"Nature, Adventure",Male,1,1,Kerala Backwaters,Kerala,Nature,9.26496476298098,Sep-Mar,"['Nature', 'Adventure']",0.8823009262110741,0.0
+20,311,2024-01-01,5,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.093952306204637,Nov-Feb,"['Nature', 'Adventure']",0.2954187811851987,1.0
+999,11,2024-02-15,3,"City, Historical",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.17770928252728,Nov-Feb,"['City', 'Historical']",0.33739568214868926,0.5
+292,775,2024-03-20,2,"Beaches, Historical",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.079156318407351,Apr-Jun,"['Beaches', 'Historical']",0.2880034022914916,0.25
+213,230,2024-01-01,2,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.619039723254248,Apr-Jun,"['City', 'Historical']",0.057404476752452485,0.25
+891,430,2024-02-15,5,"City, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.528160810117106,Apr-Jun,"['City', 'Historical']",0.011858239245831946,1.0
+335,785,2024-03-20,4,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.366933345133754,Apr-Jun,"['Nature', 'Adventure']",0.9334050283687991,0.75
+669,181,2024-01-01,4,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,9.236840653145723,Nov-Feb,"['City', 'Historical']",0.8682058260167543,0.75
+473,443,2024-02-15,5,"Nature, Adventure",Male,2,2,Jaipur City,Rajasthan,City,9.225300608752708,Oct-Mar,"['Nature', 'Adventure']",0.8624222444947344,1.0
+9,996,2024-03-20,5,"City, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.13381819081494,Nov-Feb,"['City', 'Historical']",0.31539856512179076,1.0
+3,904,2024-01-01,4,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.574376628395806,Sep-Mar,"['City', 'Historical']",0.5361954314236912,0.75
+13,50,2024-02-15,5,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.18047732584072,Apr-Jun,"['Beaches', 'Historical']",0.3387829562019372,1.0
+721,356,2024-03-20,4,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.606176983767309,Nov-Feb,"['Beaches', 'Historical']",0.5521329739024367,0.75
+293,339,2024-01-01,4,"Nature, Adventure",Female,1,0,Kerala Backwaters,Kerala,Nature,8.568613099478302,Sep-Mar,"['Nature', 'Adventure']",0.5333068949316586,0.75
+693,3,2024-02-15,2,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,9.225372007612826,Oct-Mar,"['City', 'Historical']",0.8624580278170519,0.25
+936,350,2024-03-20,1,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.950916521545693,Apr-Jun,"['City', 'Historical']",0.22373282461801514,0.0
+356,436,2024-01-01,2,"Nature, Adventure",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,7.728114076451941,Nov-Feb,"['Nature', 'Adventure']",0.11206981357405578,0.25
+840,103,2024-02-15,5,"City, Historical",Female,1,0,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,"['City', 'Historical']",0.8967856390049167,1.0
+554,529,2024-03-20,4,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,7.726465986904015,Sep-Mar,"['Nature', 'Adventure']",0.11124383232724254,0.75
+338,436,2024-01-01,5,"Nature, Adventure",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,7.728114076451941,Nov-Feb,"['Nature', 'Adventure']",0.11206981357405578,1.0
+434,725,2024-02-15,3,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.339552233237942,Apr-Jun,"['Nature', 'Adventure']",0.9196823001521883,0.5
+768,824,2024-03-20,3,"City, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,9.206043310589514,Sep-Mar,"['City', 'Historical']",0.8527709684660146,0.5
+108,737,2024-01-01,2,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,9.413701353656403,Nov-Mar,"['City', 'Historical']",0.9568439841216013,0.25
+511,19,2024-02-15,2,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.01709023649701,Sep-Mar,"['Beaches', 'Historical']",0.7580724152687945,0.25
+93,833,2024-03-20,1,"City, Historical",Female,1,0,Jaipur City,Rajasthan,City,7.976891811337149,Oct-Mar,"['City', 'Historical']",0.23675098996908603,0.0
+752,203,2024-01-01,5,"Nature, Adventure",Male,1,2,Jaipur City,Rajasthan,City,9.04284018561824,Oct-Mar,"['Nature', 'Adventure']",0.7709776455138913,1.0
+516,921,2024-02-15,5,"City, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.685684922550122,Nov-Feb,"['City', 'Historical']",0.5919803635603549,1.0
+527,793,2024-03-20,2,"Nature, Adventure",Male,1,2,Jaipur City,Rajasthan,City,7.781580260307882,Oct-Mar,"['Nature', 'Adventure']",0.1388657272179661,0.25
+23,725,2024-01-01,3,"Nature, Adventure",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.339552233237942,Apr-Jun,"['Nature', 'Adventure']",0.9196823001521883,0.5
+569,451,2024-02-15,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.948981237202266,Nov-Feb,"['Nature', 'Adventure']",0.2227629085252074,0.25
+676,117,2024-03-20,2,"Beaches, Historical",Male,2,0,Goa Beaches,Goa,Beach,9.21979801445382,Nov-Mar,"['Beaches', 'Historical']",0.8596644819050621,0.25
+27,702,2024-01-01,5,"City, Historical",Female,2,2,Goa Beaches,Goa,Beach,9.111768717459087,Nov-Mar,"['City', 'Historical']",0.805522901105452,1.0
+944,732,2024-02-15,3,"Nature, Adventure",Female,2,0,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,"['Nature', 'Adventure']",0.4815699721217788,0.5
+613,146,2024-03-20,3,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.373844119971205,Nov-Feb,"['Beaches', 'Historical']",0.43569355545250577,0.5
+614,501,2024-01-01,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.43779797890401,Nov-Feb,"['Nature', 'Adventure']",0.46774562944708303,0.25
+373,867,2024-02-15,5,"Beaches, Historical",Male,2,2,Goa Beaches,Goa,Beach,7.544784240485142,Nov-Mar,"['Beaches', 'Historical']",0.020189486634043803,1.0
+169,196,2024-03-20,5,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.393643741715653,Nov-Feb,"['Beaches', 'Historical']",0.44561663049140976,1.0
+482,265,2024-01-01,3,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.1417227262193,Apr-Jun,"['Nature', 'Adventure']",0.8205351008575463,0.5
+535,317,2024-02-15,4,"Beaches, Historical",Female,1,2,Goa Beaches,Goa,Beach,8.61779577553025,Nov-Mar,"['Beaches', 'Historical']",0.5579560216360326,0.75
+343,258,2024-03-20,1,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,7.617165381372276,Oct-Mar,"['Beaches', 'Historical']",0.05646510349656754,0.0
+16,970,2024-01-01,2,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.01310124502825,Apr-Jun,"['Beaches', 'Historical']",0.756073232547784,0.25
+401,435,2024-02-15,1,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.316001911390781,Apr-Jun,"['Nature', 'Adventure']",0.4067044877032492,0.0
+65,922,2024-03-20,4,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,9.298024384615864,Nov-Mar,"['Nature', 'Adventure']",0.8988695814346369,0.75
+767,877,2024-01-01,4,"Nature, Adventure",Female,2,2,Goa Beaches,Goa,Beach,7.911432523928271,Nov-Mar,"['Nature', 'Adventure']",0.20394443288758024,0.75
+137,305,2024-02-15,5,"Nature, Adventure",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.111872493591813,Apr-Jun,"['Nature', 'Adventure']",0.3043999307470093,1.0
+992,296,2024-03-20,5,"Nature, Adventure",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.01345163279451,Nov-Feb,"['Nature', 'Adventure']",0.255073857769934,1.0
+528,872,2024-01-01,4,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,"['City', 'Historical']",0.9566570412533837,0.75
+59,468,2024-02-15,4,"Nature, Adventure",Male,1,1,Jaipur City,Rajasthan,City,9.47910151784028,Oct-Mar,"['Nature', 'Adventure']",0.9896209101219788,0.75
+528,824,2024-03-20,1,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,9.206043310589514,Sep-Mar,"['City', 'Historical']",0.8527709684660146,0.0
+597,386,2024-01-01,5,"City, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,9.46333200145262,Nov-Feb,"['City', 'Historical']",0.9817176230561109,1.0
+290,133,2024-02-15,3,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,7.813559346844389,Oct-Mar,"['Nature', 'Adventure']",0.15489284528482214,0.5
+657,773,2024-03-20,5,"City, Historical",Male,1,0,Jaipur City,Rajasthan,City,8.784997932243503,Oct-Mar,"['City', 'Historical']",0.6417535592429,1.0
+400,134,2024-01-01,1,"Beaches, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,7.743269418238725,Sep-Mar,"['Beaches', 'Historical']",0.11966529169639203,0.0
+750,460,2024-02-15,1,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.25449220912482,Apr-Jun,"['City', 'Historical']",0.37587736387817333,0.0
+833,433,2024-03-20,1,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,8.683728793384567,Oct-Mar,"['Nature', 'Adventure']",0.5910000005642271,0.0
+773,14,2024-01-01,3,"Nature, Adventure",Male,1,0,Kerala Backwaters,Kerala,Nature,8.551426230833268,Sep-Mar,"['Nature', 'Adventure']",0.5246932663760386,0.5
+285,167,2024-02-15,2,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,9.1852981894065,Nov-Mar,"['City', 'Historical']",0.8423740327645577,0.25
+184,394,2024-03-20,3,"Beaches, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,8.884525796968724,Sep-Mar,"['Beaches', 'Historical']",0.691634434891808,0.5
+560,349,2024-01-01,4,"Nature, Adventure",Female,1,1,Kerala Backwaters,Kerala,Nature,8.18621530520951,Sep-Mar,"['Nature', 'Adventure']",0.34165868789939524,0.75
+498,507,2024-02-15,3,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,"['City', 'Historical']",0.36888862510396603,0.5
+659,969,2024-03-20,3,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,9.409359526915562,Sep-Mar,"['Nature', 'Adventure']",0.9546679691900349,0.5
+591,679,2024-01-01,4,"City, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,7.841584036663998,Sep-Mar,"['City', 'Historical']",0.16893811865475192,0.75
+964,113,2024-02-15,4,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,"['Beaches', 'Historical']",0.03610192879730586,0.75
+458,377,2024-03-20,2,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,7.92228615054826,Nov-Mar,"['Nature', 'Adventure']",0.20938399899568488,0.25
+572,685,2024-01-01,3,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165312162,Apr-Jun,"['Nature', 'Adventure']",0.04727444842280766,0.5
+502,978,2024-02-15,1,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,8.519173371272599,Oct-Mar,"['Beaches', 'Historical']",0.5085289401191753,0.0
+635,803,2024-03-20,4,"Nature, Adventure",Male,1,0,Jaipur City,Rajasthan,City,9.31045957210701,Oct-Mar,"['Nature', 'Adventure']",0.9051017862812816,0.75
+512,495,2024-01-01,2,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.414265880762033,Apr-Jun,"['Nature', 'Adventure']",0.45595193062295436,0.25
+609,82,2024-02-15,2,"City, Historical",Female,2,2,Goa Beaches,Goa,Beach,8.067416540924038,Nov-Mar,"['City', 'Historical']",0.2821197195418643,0.25
+758,938,2024-03-20,4,"Nature, Adventure",Male,2,0,Jaipur City,Rajasthan,City,9.20608066746193,Oct-Mar,"['Nature', 'Adventure']",0.8527896907958136,0.75
+30,239,2024-01-01,5,"City, Historical",Female,1,1,Kerala Backwaters,Kerala,Nature,8.757659224866991,Sep-Mar,"['City', 'Historical']",0.6280520831104166,1.0
+124,881,2024-02-15,3,"Beaches, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,8.278291770000452,Nov-Feb,"['Beaches', 'Historical']",0.38780510833258847,0.5
+678,706,2024-03-20,3,"City, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,9.023746389658204,Nov-Feb,"['City', 'Historical']",0.761408312698627,0.5
+3,421,2024-01-01,4,"City, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.912423770627766,Nov-Feb,"['City', 'Historical']",0.7056162012924547,0.75
+928,41,2024-02-15,3,"Beaches, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,9.45205627034071,Nov-Feb,"['Beaches', 'Historical']",0.9760665087375578,0.5
+424,211,2024-03-20,5,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.188261257930963,Nov-Feb,"['Beaches', 'Historical']",0.34268406821438624,1.0
+778,429,2024-01-01,5,"Beaches, Historical",Female,1,0,Kerala Backwaters,Kerala,Nature,8.186484600129791,Sep-Mar,"['Beaches', 'Historical']",0.34179365177577825,1.0
+490,4,2024-02-15,1,"Beaches, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,7.9773855361057935,Sep-Mar,"['Beaches', 'Historical']",0.23699843247031466,0.0
+765,169,2024-03-20,2,"City, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,7.686748942635202,Sep-Mar,"['City', 'Historical']",0.09133864344587389,0.25
+286,968,2024-01-01,1,"Beaches, Historical",Male,2,2,Jaipur City,Rajasthan,City,9.06097855232804,Oct-Mar,"['Beaches', 'Historical']",0.7800681410934321,0.0
+235,186,2024-02-15,2,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.118994457168691,Nov-Feb,"['Beaches', 'Historical']",0.307969280702774,0.25
+122,348,2024-03-20,1,"Nature, Adventure",Male,2,2,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,"['Nature', 'Adventure']",0.25512464820971475,0.0
+982,544,2024-01-01,1,"Beaches, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.517940732286046,Sep-Mar,"['Beaches', 'Historical']",0.5079111722992992,0.0
+679,447,2024-02-15,5,"Beaches, Historical",Male,2,1,Goa Beaches,Goa,Beach,8.888745118422108,Nov-Mar,"['Beaches', 'Historical']",0.693749053238339,1.0
+210,301,2024-03-20,1,"City, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.634308850859137,Nov-Feb,"['City', 'Historical']",0.5662319618396657,0.0
+346,128,2024-01-01,4,"Beaches, Historical",Male,2,2,Jaipur City,Rajasthan,City,7.513479447324053,Oct-Mar,"['Beaches', 'Historical']",0.0045003075363697,0.75
+953,421,2024-02-15,2,"Nature, Adventure",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.912423770627766,Nov-Feb,"['Nature', 'Adventure']",0.7056162012924547,0.25
+862,103,2024-03-20,2,"Beaches, Historical",Male,1,1,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,"['Beaches', 'Historical']",0.8967856390049167,0.25
+290,169,2024-01-01,2,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,7.686748942635202,Sep-Mar,"['Nature', 'Adventure']",0.09133864344587389,0.25
+93,920,2024-02-15,2,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.584679630283544,Apr-Jun,"['City', 'Historical']",0.04018405783270144,0.25
+217,174,2024-03-20,4,"Beaches, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,8.360692114959477,Sep-Mar,"['Beaches', 'Historical']",0.4291020995990621,0.75
+940,411,2024-01-01,5,"Beaches, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.284126727805766,Nov-Feb,"['Beaches', 'Historical']",0.3907294431960667,1.0
+197,728,2024-02-15,4,"Nature, Adventure",Female,1,1,Jaipur City,Rajasthan,City,9.09930562784097,Oct-Mar,"['Nature', 'Adventure']",0.7992767124108704,0.75
+930,688,2024-03-20,2,"City, Historical",Male,2,1,Jaipur City,Rajasthan,City,8.056619012437265,Oct-Mar,"['City', 'Historical']",0.27670826841457247,0.25
+943,479,2024-01-01,4,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.432522163463709,Sep-Mar,"['Beaches', 'Historical']",0.46510152274740857,0.75
+35,573,2024-02-15,2,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,9.155604744108183,Oct-Mar,"['Nature', 'Adventure']",0.827492420900361,0.25
+366,624,2024-03-20,2,"City, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,8.331131728498399,Sep-Mar,"['City', 'Historical']",0.4142871734950054,0.25
+214,417,2024-01-01,3,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,7.799317152894507,Nov-Mar,"['Beaches', 'Historical']",0.14775501401171054,0.5
+560,657,2024-02-15,3,"Nature, Adventure",Female,1,1,Goa Beaches,Goa,Beach,9.350623282972432,Nov-Mar,"['Nature', 'Adventure']",0.9252308332854327,0.5
+684,772,2024-03-20,2,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,9.13732713238196,Nov-Mar,"['City', 'Historical']",0.8183321392024486,0.25
+373,865,2024-01-01,1,"Beaches, Historical",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.989187748130234,Apr-Jun,"['Beaches', 'Historical']",0.7440883862095884,0.0
+623,470,2024-02-15,1,"Nature, Adventure",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.93195095213289,Apr-Jun,"['Nature', 'Adventure']",0.7154027360997659,0.0
+474,273,2024-03-20,4,"City, Historical",Male,2,2,Jaipur City,Rajasthan,City,9.324373462793442,Oct-Mar,"['City', 'Historical']",0.9120750801727813,0.75
+42,500,2024-01-01,4,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.940107797681996,Apr-Jun,"['City', 'Historical']",0.7194907430076364,0.75
+394,201,2024-02-15,1,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.653509093644129,Nov-Feb,"['Beaches', 'Historical']",0.07467966278061271,0.0
+104,635,2024-03-20,1,"Nature, Adventure",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.512680031670806,Apr-Jun,"['Nature', 'Adventure']",0.5052746407717777,0.0
+13,340,2024-01-01,5,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.051578730223218,Apr-Jun,"['Beaches', 'Historical']",0.7753571854346633,1.0
+868,259,2024-02-15,5,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.382675748307422,Sep-Mar,"['Beaches', 'Historical']",0.44011974661045394,1.0
+954,584,2024-03-20,2,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,7.877125609308293,Sep-Mar,"['City', 'Historical']",0.1867506656267101,0.25
+342,105,2024-01-01,3,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.367695620218187,Apr-Jun,"['City', 'Historical']",0.9337870615692688,0.5
+754,306,2024-02-15,2,"Beaches, Historical",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.4480644643696,Nov-Feb,"['Beaches', 'Historical']",0.4728909350986631,0.25
+87,254,2024-03-20,3,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,9.143167495034348,Sep-Mar,"['City', 'Historical']",0.8212591828400525,0.5
+441,65,2024-01-01,2,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.264285623199319,Apr-Jun,"['City', 'Historical']",0.38078557798461515,0.25
+878,872,2024-02-15,4,"Nature, Adventure",Female,1,2,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,"['Nature', 'Adventure']",0.9566570412533837,0.75
+757,528,2024-03-20,4,"Beaches, Historical",Male,1,0,Jaipur City,Rajasthan,City,8.564171557585537,Oct-Mar,"['Beaches', 'Historical']",0.5310809052607851,0.75
+516,814,2024-01-01,1,"City, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,7.589205999248015,Sep-Mar,"['City', 'Historical']",0.04245256070957094,0.0
+915,374,2024-02-15,1,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,9.27098132194643,Sep-Mar,"['City', 'Historical']",0.8853162750324161,0.0
+718,723,2024-03-20,4,"Beaches, Historical",Male,2,1,Jaipur City,Rajasthan,City,8.279131951554369,Oct-Mar,"['Beaches', 'Historical']",0.3882261863063714,0.75
+269,62,2024-01-01,3,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,9.379786903532915,Nov-Mar,"['Nature', 'Adventure']",0.9398469102470515,0.5
+621,566,2024-02-15,5,"City, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,7.567818752588276,Nov-Feb,"['City', 'Historical']",0.031733807784927855,1.0
+688,22,2024-03-20,3,"Beaches, Historical",Female,2,1,Goa Beaches,Goa,Beach,7.745073501266791,Nov-Mar,"['Beaches', 'Historical']",0.12056945297255038,0.5
+905,727,2024-01-01,2,"Nature, Adventure",Female,1,2,Goa Beaches,Goa,Beach,7.714387334549871,Nov-Mar,"['Nature', 'Adventure']",0.10519031397088258,0.25
+709,984,2024-02-15,3,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,7.748098699266505,Sep-Mar,"['Beaches', 'Historical']",0.12208560652064111,0.5
+713,251,2024-03-20,2,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.041916757088895,Nov-Feb,"['Nature', 'Adventure']",0.26933986587910963,0.25
+158,552,2024-01-01,4,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,8.564998979974378,Nov-Mar,"['Nature', 'Adventure']",0.5314955886602619,0.75
+400,487,2024-02-15,1,"Beaches, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.062331360639273,Nov-Mar,"['Beaches', 'Historical']",0.27957115441252195,0.0
+318,191,2024-03-20,2,"City, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.072256876114661,Nov-Feb,"['City', 'Historical']",0.2845455744359595,0.25
+699,7,2024-01-01,2,"City, Historical",Male,2,2,Goa Beaches,Goa,Beach,9.14506834197403,Nov-Mar,"['City', 'Historical']",0.8222118397677145,0.25
+1,941,2024-02-15,5,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.645046758887661,Nov-Feb,"['Beaches', 'Historical']",0.5716135326849658,1.0
+367,408,2024-03-20,3,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,7.789753610332566,Oct-Mar,"['Beaches', 'Historical']",0.1429620057560603,0.5
+578,761,2024-01-01,1,"Nature, Adventure",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.36014231646272,Nov-Feb,"['Nature', 'Adventure']",0.9300015347079718,0.0
+951,834,2024-02-15,1,"City, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,8.329340966088974,Sep-Mar,"['City', 'Historical']",0.41338968817963323,0.0
+54,678,2024-03-20,2,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.104480470792156,Oct-Mar,"['City', 'Historical']",0.30069523386557273,0.25
+573,227,2024-01-01,2,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,8.882153318904079,Nov-Mar,"['City', 'Historical']",0.6904454082443556,0.25
+93,847,2024-02-15,4,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,7.790585198400288,Nov-Mar,"['City', 'Historical']",0.14337877688956843,0.75
+320,220,2024-03-20,4,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.869504608299943,Apr-Jun,"['Nature', 'Adventure']",0.684106190955752,0.75
+325,525,2024-01-01,4,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.090624068994547,Apr-Jun,"['Beaches', 'Historical']",0.29375075196679956,0.75
+567,899,2024-02-15,5,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,8.575304720464212,Sep-Mar,"['City', 'Historical']",0.5366605679478467,1.0
+849,871,2024-03-20,5,"City, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,7.643206988401131,Nov-Feb,"['City', 'Historical']",0.06951650538778954,1.0
+944,702,2024-01-01,3,"Nature, Adventure",Female,2,0,Goa Beaches,Goa,Beach,9.111768717459087,Nov-Mar,"['Nature', 'Adventure']",0.805522901105452,0.5
+855,20,2024-02-15,1,"City, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395039807,Apr-Jun,"['City', 'Historical']",0.7148772255192337,0.0
+42,468,2024-03-20,2,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,9.47910151784028,Oct-Mar,"['City', 'Historical']",0.9896209101219788,0.25
+677,239,2024-01-01,2,"Nature, Adventure",Male,2,0,Kerala Backwaters,Kerala,Nature,8.757659224866991,Sep-Mar,"['Nature', 'Adventure']",0.6280520831104166,0.25
+382,236,2024-02-15,3,"Beaches, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.42477279242355,Nov-Feb,"['Beaches', 'Historical']",0.46121773186855664,0.5
+668,322,2024-03-20,4,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,7.875971584786738,Nov-Mar,"['Nature', 'Adventure']",0.18617229740978508,0.75
+674,295,2024-01-01,1,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.301807912303714,Apr-Jun,"['Nature', 'Adventure']",0.9007657908492852,0.0
+336,986,2024-02-15,1,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.108715094313126,Nov-Feb,"['City', 'Historical']",0.3028175212255258,0.0
+484,850,2024-03-20,1,"Beaches, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.64491136642723,Apr-Jun,"['Beaches', 'Historical']",0.5715456773712687,0.0
+923,510,2024-01-01,2,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.380186804036049,Apr-Jun,"['Nature', 'Adventure']",0.940047330373855,0.25
+799,568,2024-02-15,1,"Beaches, Historical",Female,1,2,Jaipur City,Rajasthan,City,8.248703528475824,Oct-Mar,"['Beaches', 'Historical']",0.37297622196760416,0.0
+239,690,2024-03-20,5,"Nature, Adventure",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.195260134545546,Apr-Jun,"['Nature', 'Adventure']",0.34619173006424,1.0
+174,784,2024-01-01,1,"City, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,8.317882740052342,Sep-Mar,"['City', 'Historical']",0.4076471119707668,0.0
+985,393,2024-02-15,4,"Beaches, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.429521721872453,Oct-Mar,"['Beaches', 'Historical']",0.46359777649184025,0.75
+812,153,2024-03-20,3,"Nature, Adventure",Male,2,0,Jaipur City,Rajasthan,City,9.072635913777948,Oct-Mar,"['Nature', 'Adventure']",0.7859105189891359,0.5
+459,967,2024-01-01,2,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,7.528727096669634,Nov-Mar,"['City', 'Historical']",0.012142047897673362,0.25
+873,135,2024-02-15,2,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.398122784522716,Apr-Jun,"['City', 'Historical']",0.949036395041993,0.25
+230,582,2024-03-20,3,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,7.779308047020037,Nov-Mar,"['Nature', 'Adventure']",0.1377269507680574,0.5
+391,541,2024-01-01,3,"Beaches, Historical",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.299700198889736,Nov-Feb,"['Beaches', 'Historical']",0.398534477260708,0.5
+272,9,2024-02-15,2,"Nature, Adventure",Male,2,0,Kerala Backwaters,Kerala,Nature,9.260450137338132,Sep-Mar,"['Nature', 'Adventure']",0.8800383087931882,0.25
+407,35,2024-03-20,2,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.115627955366532,Apr-Jun,"['Nature', 'Adventure']",0.30628207422819614,0.25
+384,383,2024-01-01,3,"City, Historical",Male,1,2,Jaipur City,Rajasthan,City,8.70695511642636,Oct-Mar,"['City', 'Historical']",0.6026404525585265,0.5
+468,159,2024-02-15,5,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,8.017566360422618,Sep-Mar,"['City', 'Historical']",0.25713605630813685,1.0
+647,531,2024-03-20,4,"Nature, Adventure",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,7.819012402589374,Nov-Feb,"['Nature', 'Adventure']",0.15762578039071537,0.75
+148,368,2024-01-01,4,"Beaches, Historical",Male,2,1,Jaipur City,Rajasthan,City,8.00825181627746,Oct-Mar,"['Beaches', 'Historical']",0.252467839829127,0.75
+612,962,2024-02-15,5,"City, Historical",Female,2,0,Goa Beaches,Goa,Beach,9.210850998967874,Nov-Mar,"['City', 'Historical']",0.8551804615946149,1.0
+942,984,2024-03-20,1,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,7.748098699266505,Sep-Mar,"['City', 'Historical']",0.12208560652064111,0.0
+448,287,2024-01-01,2,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,9.171525350501778,Nov-Mar,"['Beaches', 'Historical']",0.8354714304969856,0.25
+332,583,2024-02-15,1,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,8.45671070203574,Oct-Mar,"['Nature', 'Adventure']",0.4772242130911771,0.0
+191,389,2024-03-20,1,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,9.40914617773771,Sep-Mar,"['Nature', 'Adventure']",0.9545610439200154,0.0
+774,381,2024-01-01,2,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,9.30052503102598,Nov-Feb,"['City', 'Historical']",0.9001228428501135,0.25
+44,670,2024-02-15,5,"Nature, Adventure",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.809939225539317,Apr-Jun,"['Nature', 'Adventure']",0.15307853106085267,1.0
+916,627,2024-03-20,1,"Beaches, Historical",Female,1,2,Goa Beaches,Goa,Beach,7.949828337049644,Nov-Mar,"['Beaches', 'Historical']",0.2231874537745801,0.0
+850,761,2024-01-01,4,"Beaches, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,9.36014231646272,Nov-Feb,"['Beaches', 'Historical']",0.9300015347079718,0.75
+349,53,2024-02-15,1,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.399568313158765,Oct-Mar,"['Beaches', 'Historical']",0.44858587746805106,0.0
+158,967,2024-03-20,2,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,7.528727096669634,Nov-Mar,"['Nature', 'Adventure']",0.012142047897673362,0.25
+480,490,2024-01-01,2,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.387349596378451,Apr-Jun,"['City', 'Historical']",0.44246216232565616,0.25
+870,424,2024-02-15,2,"City, Historical",Female,2,2,Kerala Backwaters,Kerala,Nature,8.016517304482331,Sep-Mar,"['City', 'Historical']",0.2566102957178672,0.25
+466,39,2024-03-20,4,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,9.276722027226734,Sep-Mar,"['Beaches', 'Historical']",0.8881933728885237,0.75
+769,236,2024-01-01,1,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,8.42477279242355,Nov-Feb,"['Beaches', 'Historical']",0.46121773186855664,0.0
+260,167,2024-02-15,5,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,9.1852981894065,Nov-Mar,"['Nature', 'Adventure']",0.8423740327645577,1.0
+937,712,2024-03-20,1,"Beaches, Historical",Female,2,2,Goa Beaches,Goa,Beach,8.810464389396717,Nov-Mar,"['Beaches', 'Historical']",0.6545167104064941,0.0
+82,360,2024-01-01,4,"Beaches, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.117132891287836,Apr-Jun,"['Beaches', 'Historical']",0.3070363104589982,0.75
+348,2,2024-02-15,4,"City, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.605031858363876,Nov-Mar,"['City', 'Historical']",0.5515590657008618,0.75
+814,137,2024-03-20,1,"Beaches, Historical",Male,1,2,Goa Beaches,Goa,Beach,8.863570277264008,Nov-Mar,"['Beaches', 'Historical']",0.6811320527153694,0.0
+769,611,2024-01-01,3,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.342123928378385,Nov-Feb,"['Beaches', 'Historical']",0.9209711694136908,0.5
+9,890,2024-02-15,4,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.743039575412055,Apr-Jun,"['City', 'Historical']",0.11955010022224996,0.75
+528,619,2024-03-20,2,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,9.4345443222489,Sep-Mar,"['City', 'Historical']",0.9672899584965843,0.25
+197,396,2024-01-01,4,"Nature, Adventure",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,9.113864702192004,Nov-Feb,"['Nature', 'Adventure']",0.8065733562128057,0.75
+834,866,2024-02-15,4,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.15752225096045,Nov-Feb,"['City', 'Historical']",0.3272784469996626,0.75
+168,331,2024-03-20,5,"City, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,9.082935360672389,Nov-Feb,"['City', 'Historical']",0.7910723440841735,1.0
+711,831,2024-01-01,2,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.771961835427916,Nov-Feb,"['City', 'Historical']",0.6352201936773811,0.25
+302,49,2024-02-15,1,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,8.0159728308643,Sep-Mar,"['Nature', 'Adventure']",0.25633741916304387,0.0
+647,748,2024-03-20,1,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,8.719936425969232,Oct-Mar,"['Nature', 'Adventure']",0.6091463601137185,0.0
+418,373,2024-01-01,4,"Beaches, Historical",Female,1,2,Jaipur City,Rajasthan,City,9.276956975859664,Oct-Mar,"['Beaches', 'Historical']",0.8883111232650177,0.75
+972,83,2024-02-15,1,"City, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.25520276869782,Oct-Mar,"['City', 'Historical']",0.8774084589179397,0.0
+745,171,2024-03-20,4,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,7.721043377213922,Nov-Feb,"['Beaches', 'Historical']",0.10852615602231201,0.75
+878,661,2024-01-01,4,"Nature, Adventure",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,9.349513600175449,Nov-Feb,"['Nature', 'Adventure']",0.9246746880314493,0.75
+101,537,2024-02-15,4,"Nature, Adventure",Female,2,0,Goa Beaches,Goa,Beach,9.187047298341549,Nov-Mar,"['Nature', 'Adventure']",0.8432506424007273,0.75
+888,8,2024-03-20,3,"City, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.4587045393854,Oct-Mar,"['City', 'Historical']",0.979398454845456,0.5
+865,750,2024-01-01,2,"Beaches, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.956458952804828,Apr-Jun,"['Beaches', 'Historical']",0.7276855328551806,0.25
+394,886,2024-02-15,1,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,"['Beaches', 'Historical']",0.10452869297973902,0.0
+106,655,2024-03-20,1,"Beaches, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.769705210150947,Apr-Jun,"['Beaches', 'Historical']",0.634089229548517,0.0
+722,307,2024-01-01,1,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,8.41986035294417,Nov-Mar,"['Nature', 'Adventure']",0.45875574010896003,0.0
+654,718,2024-02-15,2,"City, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.203460228257162,Oct-Mar,"['City', 'Historical']",0.8514763922288305,0.25
+520,389,2024-03-20,4,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,9.40914617773771,Sep-Mar,"['Beaches', 'Historical']",0.9545610439200154,0.75
+184,878,2024-01-01,3,"Beaches, Historical",Male,1,2,Jaipur City,Rajasthan,City,7.601483087639889,Oct-Mar,"['Beaches', 'Historical']",0.048605530243243156,0.5
+328,477,2024-02-15,1,"Beaches, Historical",Female,2,0,Goa Beaches,Goa,Beach,9.061411819218064,Nov-Mar,"['Beaches', 'Historical']",0.7802852836185304,0.0
+846,974,2024-03-20,2,"City, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,7.686987873824284,Sep-Mar,"['City', 'Historical']",0.09145838977986974,0.25
+902,316,2024-01-01,2,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.03328074273946,Nov-Feb,"['Nature', 'Adventure']",0.2650117115571454,0.25
+806,529,2024-02-15,1,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,7.726465986904015,Sep-Mar,"['Nature', 'Adventure']",0.11124383232724254,0.0
+597,871,2024-03-20,2,"City, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,7.643206988401131,Nov-Feb,"['City', 'Historical']",0.06951650538778954,0.25
+465,511,2024-01-01,2,"City, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,9.219575248565713,Nov-Feb,"['City', 'Historical']",0.8595528372154649,0.25
+401,959,2024-02-15,5,"Nature, Adventure",Male,1,1,Kerala Backwaters,Kerala,Nature,9.052548436473314,Sep-Mar,"['Nature', 'Adventure']",0.7758431779455099,1.0
+868,944,2024-03-20,1,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,9.429650079998778,Sep-Mar,"['Beaches', 'Historical']",0.9648370867330035,0.0
+686,544,2024-01-01,1,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,8.517940732286046,Sep-Mar,"['Nature', 'Adventure']",0.5079111722992992,0.0
+55,808,2024-02-15,3,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,8.01406881114496,Oct-Mar,"['Beaches', 'Historical']",0.2553831721175988,0.5
+934,791,2024-03-20,1,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,9.42168809807716,Nov-Feb,"['Beaches', 'Historical']",0.9608467405998123,0.0
+188,387,2024-01-01,5,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,8.763403696969464,Nov-Mar,"['Nature', 'Adventure']",0.6309310688035503,1.0
+651,725,2024-02-15,2,"City, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.339552233237942,Apr-Jun,"['City', 'Historical']",0.9196823001521883,0.25
+950,537,2024-03-20,4,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,9.187047298341549,Nov-Mar,"['Nature', 'Adventure']",0.8432506424007273,0.75
+978,239,2024-01-01,4,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,8.757659224866991,Sep-Mar,"['City', 'Historical']",0.6280520831104166,0.75
+999,811,2024-02-15,3,"City, Historical",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,9.393805813478073,Nov-Feb,"['City', 'Historical']",0.9468728371634805,0.5
+184,485,2024-03-20,1,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.307482015375824,Apr-Jun,"['Beaches', 'Historical']",0.9036095093450089,0.0
+372,472,2024-01-01,2,"City, Historical",Female,1,2,Goa Beaches,Goa,Beach,9.276219098262825,Nov-Mar,"['City', 'Historical']",0.8879413174749141,0.25
+778,365,2024-02-15,1,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.878382688353271,Apr-Jun,"['Beaches', 'Historical']",0.688555662552111,0.0
+135,836,2024-03-20,5,"City, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,7.789458969308924,Nov-Feb,"['City', 'Historical']",0.14281433904682314,1.0
+945,839,2024-01-01,3,"City, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,9.19673720089384,Sep-Mar,"['City', 'Historical']",0.8481069791220601,0.5
+102,849,2024-02-15,2,"City, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,8.749274375887886,Sep-Mar,"['City', 'Historical']",0.6238498065879944,0.25
+374,633,2024-03-20,2,"Nature, Adventure",Female,1,1,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,"['Nature', 'Adventure']",0.2675479688668801,0.25
+526,20,2024-01-01,3,"Beaches, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395039807,Apr-Jun,"['Beaches', 'Historical']",0.7148772255192337,0.5
+294,220,2024-02-15,3,"City, Historical",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.869504608299943,Apr-Jun,"['City', 'Historical']",0.684106190955752,0.5
+800,269,2024-03-20,1,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,7.588087849193326,Sep-Mar,"['Nature', 'Adventure']",0.04189217187787314,0.0
+893,146,2024-01-01,3,"Nature, Adventure",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.373844119971205,Nov-Feb,"['Nature', 'Adventure']",0.43569355545250577,0.5
+614,590,2024-02-15,5,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.17109010854659,Apr-Jun,"['Nature', 'Adventure']",0.3340783177589194,1.0
+826,413,2024-03-20,4,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.164900243709798,Oct-Mar,"['Beaches', 'Historical']",0.8321510927306343,0.75
+507,7,2024-01-01,2,"City, Historical",Female,2,2,Goa Beaches,Goa,Beach,9.14506834197403,Nov-Mar,"['City', 'Historical']",0.8222118397677145,0.25
+315,463,2024-02-15,1,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.981270231292,Oct-Mar,"['City', 'Historical']",0.7401203248636881,0.0
+102,511,2024-03-20,3,"City, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,9.219575248565713,Nov-Feb,"['City', 'Historical']",0.8595528372154649,0.5
+166,259,2024-01-01,5,"Beaches, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,8.382675748307422,Sep-Mar,"['Beaches', 'Historical']",0.44011974661045394,1.0
+11,89,2024-02-15,3,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,8.686130970942902,Sep-Mar,"['Nature', 'Adventure']",0.5922039118548458,0.5
+56,92,2024-03-20,5,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,7.842354721882594,Nov-Mar,"['Nature', 'Adventure']",0.1693243668040452,1.0
+722,416,2024-01-01,2,"Nature, Adventure",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,9.327014780224204,Nov-Feb,"['Nature', 'Adventure']",0.9133988423842669,0.25
+50,114,2024-02-15,3,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,9.46714704036077,Sep-Mar,"['Nature', 'Adventure']",0.9836296251059741,0.5
+300,194,2024-03-20,1,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,7.764994888805412,Sep-Mar,"['City', 'Historical']",0.1305535539809571,0.0
+834,361,2024-01-01,5,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.134764369094412,Nov-Feb,"['City', 'Historical']",0.3158727660024219,1.0
+209,727,2024-02-15,1,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,7.714387334549871,Nov-Mar,"['Nature', 'Adventure']",0.10519031397088258,0.0
+700,535,2024-03-20,4,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.177624039641806,Apr-Jun,"['Beaches', 'Historical']",0.8385279409069594,0.75
+303,128,2024-01-01,2,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,7.513479447324053,Oct-Mar,"['City', 'Historical']",0.0045003075363697,0.25
+809,483,2024-02-15,5,"Nature, Adventure",Male,1,2,Jaipur City,Rajasthan,City,9.187132541918034,Oct-Mar,"['Nature', 'Adventure']",0.8432933643484983,1.0
+849,676,2024-03-20,2,"City, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,9.263552559071387,Nov-Feb,"['City', 'Historical']",0.8815931649444197,0.25
+220,606,2024-01-01,3,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,7.645870324298047,Nov-Feb,"['Beaches', 'Historical']",0.07085130270361761,0.5
+896,189,2024-02-15,4,"Nature, Adventure",Female,2,2,Kerala Backwaters,Kerala,Nature,8.649611762507414,Sep-Mar,"['Nature', 'Adventure']",0.5739013982844375,0.75
+637,24,2024-03-20,1,"Beaches, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,9.182423104129008,Sep-Mar,"['Beaches', 'Historical']",0.8409331119570777,0.0
+98,398,2024-01-01,1,"Nature, Adventure",Male,2,0,Jaipur City,Rajasthan,City,8.33295003386784,Oct-Mar,"['Nature', 'Adventure']",0.41519846265282334,0.0
+631,569,2024-02-15,1,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,9.000157281763427,Sep-Mar,"['Beaches', 'Historical']",0.7495860420127587,0.0
+43,200,2024-03-20,1,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.77167518972464,Apr-Jun,"['Beaches', 'Historical']",0.13390155366294804,0.0
+961,355,2024-01-01,2,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.057546789498799,Apr-Jun,"['Beaches', 'Historical']",0.27717324706516505,0.25
+689,950,2024-02-15,3,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.671909274040946,Apr-Jun,"['Nature', 'Adventure']",0.08390137282960294,0.5
+729,874,2024-03-20,3,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.671636575343907,Sep-Mar,"['City', 'Historical']",0.5849396834251936,0.5
+970,270,2024-01-01,5,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.434929744953086,Apr-Jun,"['Beaches', 'Historical']",0.46630814235306167,1.0
+934,36,2024-02-15,2,"Beaches, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.152769658316458,Nov-Feb,"['Beaches', 'Historical']",0.3248965664746519,0.25
+498,913,2024-03-20,1,"City, Historical",Male,1,0,Jaipur City,Rajasthan,City,7.58801460622224,Oct-Mar,"['City', 'Historical']",0.041855464333277456,0.0
+531,367,2024-01-01,4,"City, Historical",Female,1,1,Goa Beaches,Goa,Beach,8.445148546462805,Nov-Mar,"['City', 'Historical']",0.47142954999899506,0.75
+15,481,2024-02-15,4,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.347502107586056,Nov-Feb,"['City', 'Historical']",0.4224915979127433,0.75
+228,395,2024-03-20,1,"City, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.879069809066051,Apr-Jun,"['City', 'Historical']",0.688900030261843,0.0
+637,637,2024-01-01,5,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,9.155871192324602,Nov-Mar,"['Beaches', 'Historical']",0.8276259580799915,1.0
+366,416,2024-02-15,1,"City, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,9.327014780224204,Nov-Feb,"['City', 'Historical']",0.9133988423842669,0.0
+823,109,2024-03-20,3,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,8.024075275103758,Sep-Mar,"['Beaches', 'Historical']",0.2603981614956203,0.5
+693,488,2024-01-01,1,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.654607164170207,Oct-Mar,"['City', 'Historical']",0.5764049686146767,0.0
+837,287,2024-02-15,3,"City, Historical",Female,2,2,Goa Beaches,Goa,Beach,9.171525350501778,Nov-Mar,"['City', 'Historical']",0.8354714304969856,0.5
+216,112,2024-03-20,1,"City, Historical",Female,1,2,Goa Beaches,Goa,Beach,8.196505600821453,Nov-Mar,"['City', 'Historical']",0.34681592660060667,0.0
+798,975,2024-01-01,5,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.780722103503646,Apr-Jun,"['City', 'Historical']",0.6396106208581807,1.0
+207,587,2024-02-15,3,"City, Historical",Male,2,2,Goa Beaches,Goa,Beach,7.768523623167793,Nov-Mar,"['City', 'Historical']",0.13232206735571803,0.5
+187,717,2024-03-20,4,"Beaches, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.367306496099209,Nov-Mar,"['Beaches', 'Historical']",0.4324170619368591,0.75
+208,808,2024-01-01,3,"Beaches, Historical",Male,1,2,Jaipur City,Rajasthan,City,8.01406881114496,Oct-Mar,"['Beaches', 'Historical']",0.2553831721175988,0.5
+308,185,2024-02-15,3,"Nature, Adventure",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.242881342868039,Apr-Jun,"['Nature', 'Adventure']",0.37005828820997166,0.5
+95,67,2024-03-20,2,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,7.593468221686345,Nov-Mar,"['Nature', 'Adventure']",0.044588679956390063,0.25
+103,828,2024-01-01,2,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,7.804063905354139,Oct-Mar,"['Beaches', 'Historical']",0.15013396758243922,0.25
+63,747,2024-02-15,2,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,8.350906820188296,Nov-Mar,"['City', 'Historical']",0.4241979546843015,0.25
+397,85,2024-03-20,3,"Beaches, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.877439168200071,Apr-Jun,"['Beaches', 'Historical']",0.18690781349813831,0.5
+240,935,2024-01-01,2,"City, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.473490132236787,Apr-Jun,"['City', 'Historical']",0.4856336436926337,0.25
+153,864,2024-02-15,2,"City, Historical",Female,1,0,Kerala Backwaters,Kerala,Nature,9.147968243343048,Sep-Mar,"['City', 'Historical']",0.8236651977793771,0.25
+930,556,2024-03-20,2,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,7.703776810764232,Nov-Feb,"['City', 'Historical']",0.09987258492100874,0.25
+72,714,2024-01-01,3,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.655670235424626,Sep-Mar,"['City', 'Historical']",0.5769377533297314,0.5
+928,108,2024-02-15,4,"Beaches, Historical",Female,1,1,Jaipur City,Rajasthan,City,8.180179995253692,Oct-Mar,"['Beaches', 'Historical']",0.33863394155082327,0.75
+213,905,2024-03-20,4,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.13644498964263,Apr-Jun,"['City', 'Historical']",0.31671505097266706,0.75
+94,280,2024-01-01,1,"Beaches, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.639341731351649,Apr-Jun,"['Beaches', 'Historical']",0.06757933526193038,0.0
+773,133,2024-02-15,3,"Nature, Adventure",Male,1,0,Jaipur City,Rajasthan,City,7.813559346844389,Oct-Mar,"['Nature', 'Adventure']",0.15489284528482214,0.5
+712,476,2024-03-20,3,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.59393285581819,Nov-Feb,"['Beaches', 'Historical']",0.5459965233180151,0.5
+201,988,2024-01-01,3,"City, Historical",Male,2,1,Jaipur City,Rajasthan,City,7.96234787124329,Oct-Mar,"['City', 'Historical']",0.2294619310781935,0.5
+336,347,2024-02-15,2,"City, Historical",Male,2,1,Goa Beaches,Goa,Beach,7.920959927553192,Nov-Mar,"['City', 'Historical']",0.20871932921217934,0.25
+360,555,2024-03-20,2,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.04217651721199,Apr-Jun,"['City', 'Historical']",0.7706450315134231,0.25
+990,81,2024-01-01,3,"City, Historical",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.113730398100675,Nov-Feb,"['City', 'Historical']",0.30533106600274834,0.5
+939,19,2024-02-15,3,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,9.01709023649701,Sep-Mar,"['City', 'Historical']",0.7580724152687945,0.5
+305,806,2024-03-20,1,"Nature, Adventure",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.576757876815993,Nov-Feb,"['Nature', 'Adventure']",0.5373888535539102,0.0
+168,301,2024-01-01,2,"City, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.634308850859137,Nov-Feb,"['City', 'Historical']",0.5662319618396657,0.25
+250,662,2024-02-15,3,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,7.848867269009221,Nov-Mar,"['Beaches', 'Historical']",0.17258829248232446,0.5
+564,188,2024-03-20,3,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.202625978518912,Oct-Mar,"['City', 'Historical']",0.34988330677292445,0.5
+328,653,2024-01-01,5,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.496920384788352,Oct-Mar,"['Beaches', 'Historical']",0.9985512804147108,1.0
+607,573,2024-02-15,2,"Beaches, Historical",Male,1,0,Jaipur City,Rajasthan,City,9.155604744108183,Oct-Mar,"['Beaches', 'Historical']",0.827492420900361,0.25
+281,228,2024-03-20,5,"Nature, Adventure",Male,2,2,Jaipur City,Rajasthan,City,8.534275498218907,Oct-Mar,"['Nature', 'Adventure']",0.5160977482948813,1.0
+185,768,2024-01-01,3,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,7.596634440314337,Oct-Mar,"['Nature', 'Adventure']",0.04617550951508829,0.5
+830,768,2024-02-15,2,"Nature, Adventure",Male,1,0,Jaipur City,Rajasthan,City,7.596634440314337,Oct-Mar,"['Nature', 'Adventure']",0.04617550951508829,0.25
+200,826,2024-03-20,3,"Nature, Adventure",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.277156854345177,Nov-Feb,"['Nature', 'Adventure']",0.38723631700134625,0.5
+265,731,2024-01-01,1,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.20644321253904,Nov-Feb,"['Beaches', 'Historical']",0.8529713893177144,0.0
+925,198,2024-02-15,3,"Beaches, Historical",Male,2,2,Jaipur City,Rajasthan,City,8.25589320047637,Oct-Mar,"['Beaches', 'Historical']",0.37657950569127074,0.5
+500,482,2024-03-20,5,"Nature, Adventure",Female,1,1,Goa Beaches,Goa,Beach,7.948762856954323,Nov-Mar,"['Nature', 'Adventure']",0.22265346180873374,1.0
+912,786,2024-01-01,3,"City, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.389205905418272,Nov-Feb,"['City', 'Historical']",0.44339249797223024,0.5
+602,572,2024-02-15,5,"Nature, Adventure",Female,1,2,Goa Beaches,Goa,Beach,8.29243960608129,Nov-Mar,"['Nature', 'Adventure']",0.39489564980253494,1.0
+26,952,2024-03-20,5,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,8.123015873320766,Nov-Mar,"['Nature', 'Adventure']",0.30998471386380816,1.0
+992,259,2024-01-01,1,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,8.382675748307422,Sep-Mar,"['Nature', 'Adventure']",0.44011974661045394,0.0
+123,148,2024-02-15,3,"City, Historical",Female,2,1,Jaipur City,Rajasthan,City,7.69274109154765,Oct-Mar,"['City', 'Historical']",0.09434175855938286,0.5
+274,772,2024-03-20,4,"Beaches, Historical",Male,1,2,Goa Beaches,Goa,Beach,9.13732713238196,Nov-Mar,"['Beaches', 'Historical']",0.8183321392024486,0.75
+478,539,2024-01-01,2,"Beaches, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,8.945958184370141,Sep-Mar,"['Beaches', 'Historical']",0.7224228104411643,0.25
+694,650,2024-02-15,2,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.204607883952981,Apr-Jun,"['Beaches', 'Historical']",0.3508765881899192,0.25
+964,771,2024-03-20,2,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.129988976860952,Nov-Feb,"['Beaches', 'Historical']",0.31347945889360745,0.25
+402,613,2024-01-01,2,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,7.893422691754661,Oct-Mar,"['City', 'Historical']",0.19491835560168924,0.25
+803,950,2024-02-15,5,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.671909274040946,Apr-Jun,"['Nature', 'Adventure']",0.08390137282960294,1.0
+159,477,2024-03-20,3,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,9.061411819218064,Nov-Mar,"['City', 'Historical']",0.7802852836185304,0.5
+34,910,2024-01-01,5,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.569335477200543,Apr-Jun,"['Beaches', 'Historical']",0.533668932572415,1.0
+419,578,2024-02-15,1,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,8.205781816540815,Oct-Mar,"['Nature', 'Adventure']",0.35146493383157057,0.0
+851,956,2024-03-20,3,"Nature, Adventure",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.240773308493525,Nov-Feb,"['Nature', 'Adventure']",0.8701767744834504,0.5
+328,292,2024-01-01,1,"Beaches, Historical",Female,2,0,Goa Beaches,Goa,Beach,8.259128922273915,Nov-Mar,"['Beaches', 'Historical']",0.37820116849960467,0.0
+868,661,2024-02-15,5,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.349513600175449,Nov-Feb,"['Beaches', 'Historical']",0.9246746880314493,1.0
+220,273,2024-03-20,5,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.324373462793442,Oct-Mar,"['Beaches', 'Historical']",0.9120750801727813,1.0
+100,53,2024-01-01,3,"Beaches, Historical",Female,1,1,Jaipur City,Rajasthan,City,8.399568313158765,Oct-Mar,"['Beaches', 'Historical']",0.44858587746805106,0.5
+590,171,2024-02-15,4,"Nature, Adventure",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,7.721043377213922,Nov-Feb,"['Nature', 'Adventure']",0.10852615602231201,0.75
+542,405,2024-03-20,1,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.266309519533893,Apr-Jun,"['Nature', 'Adventure']",0.3817999041903454,0.0
+20,674,2024-01-01,4,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,8.000500722385876,Sep-Mar,"['Nature', 'Adventure']",0.24858318550024644,0.75
+793,422,2024-02-15,2,"Beaches, Historical",Male,2,2,Goa Beaches,Goa,Beach,7.9629327439636866,Nov-Mar,"['Beaches', 'Historical']",0.22975505465235105,0.25
+388,852,2024-03-20,4,"Beaches, Historical",Male,1,1,Goa Beaches,Goa,Beach,8.287492091663,Nov-Mar,"['Beaches', 'Historical']",0.39241607936111866,0.75
+45,474,2024-01-01,2,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,7.780303814451599,Sep-Mar,"['City', 'Historical']",0.13822600449101308,0.25
+299,662,2024-02-15,4,"Nature, Adventure",Female,2,1,Goa Beaches,Goa,Beach,7.848867269009221,Nov-Mar,"['Nature', 'Adventure']",0.17258829248232446,0.75
+973,628,2024-03-20,3,"Beaches, Historical",Female,1,2,Jaipur City,Rajasthan,City,9.28390783788805,Oct-Mar,"['Beaches', 'Historical']",0.8917947214055773,0.5
+106,357,2024-01-01,2,"Beaches, Historical",Male,1,0,Goa Beaches,Goa,Beach,8.314502184896275,Nov-Mar,"['Beaches', 'Historical']",0.40595286230682004,0.25
+233,120,2024-02-15,5,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.928950861748308,Apr-Jun,"['Nature', 'Adventure']",0.21272418550047215,1.0
+148,176,2024-03-20,1,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,"['Beaches', 'Historical']",0.33107317895151134,0.0
+701,985,2024-01-01,2,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.034655060888772,Apr-Jun,"['Nature', 'Adventure']",0.7668754657883579,0.25
+276,928,2024-02-15,1,"City, Historical",Male,1,2,Jaipur City,Rajasthan,City,8.026833743679079,Oct-Mar,"['City', 'Historical']",0.26178063692967957,0.0
+929,770,2024-03-20,3,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.08102960007878,Apr-Jun,"['Nature', 'Adventure']",0.7901172245561016,0.5
+386,290,2024-01-01,4,"Nature, Adventure",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.934186545996741,Apr-Jun,"['Nature', 'Adventure']",0.21534817945085022,0.75
+824,636,2024-02-15,4,"Nature, Adventure",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.591103123657849,Nov-Feb,"['Nature', 'Adventure']",0.5445783323581327,0.75
+871,970,2024-03-20,5,"Beaches, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.01310124502825,Apr-Jun,"['Beaches', 'Historical']",0.756073232547784,1.0
+688,448,2024-01-01,4,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.531272858594322,Oct-Mar,"['Beaches', 'Historical']",0.5145929004400027,0.75
+546,586,2024-02-15,4,"City, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,7.569722658093775,Nov-Feb,"['City', 'Historical']",0.032687997589252865,0.75
+310,948,2024-03-20,1,"Beaches, Historical",Male,2,0,Jaipur City,Rajasthan,City,7.708772719956032,Oct-Mar,"['Beaches', 'Historical']",0.10237640961208815,0.0
+178,142,2024-01-01,4,"Beaches, Historical",Female,1,0,Goa Beaches,Goa,Beach,7.601039201109356,Nov-Mar,"['Beaches', 'Historical']",0.04838306542002125,0.75
+906,813,2024-02-15,3,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,8.336255248752801,Oct-Mar,"['City', 'Historical']",0.41685495365787817,0.5
+206,354,2024-03-20,2,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,7.760694703272286,Sep-Mar,"['Nature', 'Adventure']",0.12839840858084933,0.25
+278,24,2024-01-01,2,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,9.182423104129008,Sep-Mar,"['Nature', 'Adventure']",0.8409331119570777,0.25
+177,17,2024-02-15,2,"City, Historical",Male,2,1,Goa Beaches,Goa,Beach,7.524150401549511,Nov-Mar,"['City', 'Historical']",0.00984832281073309,0.25
+759,182,2024-03-20,5,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.332585021952074,Nov-Mar,"['City', 'Historical']",0.415015527813108,1.0
+348,414,2024-01-01,1,"City, Historical",Female,1,0,Kerala Backwaters,Kerala,Nature,8.41852933200488,Sep-Mar,"['City', 'Historical']",0.45808866571585305,0.0
+212,42,2024-02-15,1,"Nature, Adventure",Female,2,0,Goa Beaches,Goa,Beach,8.854828172623169,Nov-Mar,"['Nature', 'Adventure']",0.6767507285936939,0.0
+78,581,2024-03-20,3,"City, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.01567151822585,Nov-Feb,"['City', 'Historical']",0.7573613891671095,0.5
+231,565,2024-01-01,5,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.47880343825541,Apr-Jun,"['City', 'Historical']",0.48829653973216225,1.0
+875,330,2024-02-15,2,"Nature, Adventure",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.63573528781037,Apr-Jun,"['Nature', 'Adventure']",0.06577187599096107,0.25
+799,390,2024-03-20,4,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.854728503825909,Apr-Jun,"['Beaches', 'Historical']",0.6767007770861847,0.75
+16,40,2024-01-01,4,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.451473447708324,Apr-Jun,"['Beaches', 'Historical']",0.9757744126162182,0.75
+254,301,2024-02-15,2,"Nature, Adventure",Female,1,1,Taj Mahal,Uttar Pradesh,Historical,8.634308850859137,Nov-Feb,"['Nature', 'Adventure']",0.5662319618396657,0.25
+576,578,2024-03-20,5,"City, Historical",Female,2,0,Jaipur City,Rajasthan,City,8.205781816540815,Oct-Mar,"['City', 'Historical']",0.35146493383157057,1.0
+393,374,2024-01-01,5,"City, Historical",Female,2,1,Kerala Backwaters,Kerala,Nature,9.27098132194643,Sep-Mar,"['City', 'Historical']",0.8853162750324161,1.0
+322,618,2024-02-15,5,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,8.39215366577806,Oct-Mar,"['Beaches', 'Historical']",0.44486984171265226,1.0
+783,894,2024-03-20,2,"City, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,8.8155969048925,Sep-Mar,"['City', 'Historical']",0.657088998759289,0.25
+535,268,2024-01-01,1,"Beaches, Historical",Female,1,2,Jaipur City,Rajasthan,City,8.015626863328043,Oct-Mar,"['Beaches', 'Historical']",0.2561640288898553,0.0
+898,21,2024-02-15,3,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.321865627407217,Nov-Feb,"['Beaches', 'Historical']",0.9108182158223443,0.5
+821,410,2024-03-20,5,"Nature, Adventure",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.056239628784924,Apr-Jun,"['Nature', 'Adventure']",0.777693111179785,1.0
+928,190,2024-01-01,3,"Beaches, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.150588626183191,Apr-Jun,"['Beaches', 'Historical']",0.8249784680978212,0.5
+834,245,2024-02-15,2,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.459953313645835,Apr-Jun,"['City', 'Historical']",0.9800243092609036,0.25
+21,489,2024-03-20,3,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,8.63372498272289,Sep-Mar,"['City', 'Historical']",0.5659393417379499,0.5
+234,676,2024-01-01,1,"City, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.263552559071387,Nov-Feb,"['City', 'Historical']",0.8815931649444197,0.0
+600,372,2024-02-15,5,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,7.824610910350504,Nov-Mar,"['City', 'Historical']",0.16043161240794346,1.0
+851,384,2024-03-20,4,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,8.63256261554465,Sep-Mar,"['Nature', 'Adventure']",0.5653567923902244,0.75
+378,398,2024-01-01,2,"City, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.33295003386784,Oct-Mar,"['City', 'Historical']",0.41519846265282334,0.25
+811,294,2024-02-15,5,"Beaches, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,8.553046939554307,Sep-Mar,"['Beaches', 'Historical']",0.5255055250374738,1.0
+606,303,2024-03-20,3,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,9.356796584275807,Oct-Mar,"['City', 'Historical']",0.9283247374449066,0.5
+706,776,2024-01-01,2,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.459363313306993,Nov-Feb,"['Beaches', 'Historical']",0.47855363549294866,0.25
+859,566,2024-02-15,5,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,7.567818752588276,Nov-Feb,"['Beaches', 'Historical']",0.031733807784927855,1.0
+117,154,2024-03-20,2,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.48479754719289,Sep-Mar,"['City', 'Historical']",0.9924756175209014,0.25
+797,948,2024-01-01,2,"Nature, Adventure",Female,1,0,Jaipur City,Rajasthan,City,7.708772719956032,Oct-Mar,"['Nature', 'Adventure']",0.10237640961208815,0.25
+74,801,2024-02-15,1,"Nature, Adventure",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,9.157148625977571,Nov-Feb,"['Nature', 'Adventure']",0.8282661758659293,0.0
+60,421,2024-03-20,2,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.912423770627766,Nov-Feb,"['City', 'Historical']",0.7056162012924547,0.25
+903,16,2024-01-01,5,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.337332881983857,Nov-Feb,"['City', 'Historical']",0.4173950364712874,1.0
+258,721,2024-02-15,1,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.931632119904084,Nov-Feb,"['City', 'Historical']",0.7152429453637557,0.0
+7,670,2024-03-20,1,"Beaches, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.809939225539317,Apr-Jun,"['Beaches', 'Historical']",0.15307853106085267,0.0
+431,97,2024-01-01,4,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,8.882535315140167,Nov-Mar,"['Nature', 'Adventure']",0.6906368552004747,0.75
+475,821,2024-02-15,5,"Beaches, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.853137683108654,Nov-Feb,"['Beaches', 'Historical']",0.6759034975444589,1.0
+629,110,2024-03-20,5,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.885980061188206,Apr-Jun,"['Nature', 'Adventure']",0.692363275733445,1.0
+618,903,2024-01-01,3,"City, Historical",Female,1,2,Jaipur City,Rajasthan,City,8.253494745892702,Oct-Mar,"['City', 'Historical']",0.3753774602624073,0.5
+291,732,2024-02-15,3,"City, Historical",Male,2,1,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,"['City', 'Historical']",0.4815699721217788,0.5
+476,987,2024-03-20,3,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,9.499811031053753,Nov-Mar,"['Nature', 'Adventure']",1.0,0.5
+551,944,2024-01-01,1,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,9.429650079998778,Sep-Mar,"['Nature', 'Adventure']",0.9648370867330035,0.0
+17,764,2024-02-15,3,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,8.506724060467622,Sep-Mar,"['Nature', 'Adventure']",0.502289657020999,0.5
+838,335,2024-03-20,1,"Beaches, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,9.310237104496576,Apr-Jun,"['Beaches', 'Historical']",0.9049902910809913,0.0
+454,457,2024-01-01,2,"Beaches, Historical",Male,2,0,Goa Beaches,Goa,Beach,9.348468751483985,Nov-Mar,"['Beaches', 'Historical']",0.9241510360090258,0.25
+238,872,2024-02-15,2,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,9.413328344476888,Nov-Mar,"['Beaches', 'Historical']",0.9566570412533837,0.25
+367,660,2024-03-20,5,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964302513,Apr-Jun,"['Beaches', 'Historical']",0.209936200482333,1.0
+101,984,2024-01-01,3,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,7.748098699266505,Sep-Mar,"['Nature', 'Adventure']",0.12208560652064111,0.5
+509,849,2024-02-15,1,"Nature, Adventure",Male,1,0,Kerala Backwaters,Kerala,Nature,8.749274375887886,Sep-Mar,"['Nature', 'Adventure']",0.6238498065879944,0.0
+42,653,2024-03-20,1,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,9.496920384788352,Oct-Mar,"['City', 'Historical']",0.9985512804147108,0.0
+112,691,2024-01-01,5,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.887068416502617,Nov-Feb,"['Beaches', 'Historical']",0.692908732186769,1.0
+262,202,2024-02-15,2,"Beaches, Historical",Female,2,2,Goa Beaches,Goa,Beach,8.24671865641993,Nov-Mar,"['Beaches', 'Historical']",0.37198145375397473,0.25
+996,452,2024-03-20,3,"City, Historical",Male,1,1,Goa Beaches,Goa,Beach,7.710238850545792,Nov-Mar,"['City', 'Historical']",0.10311119758161595,0.5
+662,959,2024-01-01,1,"Nature, Adventure",Female,2,1,Kerala Backwaters,Kerala,Nature,9.052548436473314,Sep-Mar,"['Nature', 'Adventure']",0.7758431779455099,0.0
+872,782,2024-02-15,1,"Nature, Adventure",Male,1,1,Goa Beaches,Goa,Beach,8.99783225118662,Nov-Mar,"['Nature', 'Adventure']",0.7484207948590923,0.0
+1,467,2024-03-20,3,"Beaches, Historical",Female,1,0,Goa Beaches,Goa,Beach,8.025486409324685,Nov-Mar,"['Beaches', 'Historical']",0.26110538666107824,0.5
+174,175,2024-01-01,2,"City, Historical",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.866219313947683,Apr-Jun,"['City', 'Historical']",0.6824596836232822,0.25
+518,4,2024-02-15,3,"Nature, Adventure",Female,2,2,Kerala Backwaters,Kerala,Nature,7.9773855361057935,Sep-Mar,"['Nature', 'Adventure']",0.23699843247031466,0.5
+299,803,2024-03-20,4,"Nature, Adventure",Female,2,1,Jaipur City,Rajasthan,City,9.31045957210701,Oct-Mar,"['Nature', 'Adventure']",0.9051017862812816,0.75
+651,181,2024-01-01,1,"City, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,9.236840653145723,Nov-Feb,"['City', 'Historical']",0.8682058260167543,0.0
+226,485,2024-02-15,5,"Beaches, Historical",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,9.307482015375824,Apr-Jun,"['Beaches', 'Historical']",0.9036095093450089,1.0
+680,628,2024-03-20,4,"Nature, Adventure",Male,1,0,Jaipur City,Rajasthan,City,9.28390783788805,Oct-Mar,"['Nature', 'Adventure']",0.8917947214055773,0.75
+177,466,2024-01-01,5,"City, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.25089870590044,Nov-Feb,"['City', 'Historical']",0.3740763899702721,1.0
+706,306,2024-02-15,2,"Beaches, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,8.4480644643696,Nov-Feb,"['Beaches', 'Historical']",0.4728909350986631,0.25
+326,986,2024-03-20,2,"Nature, Adventure",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.108715094313126,Nov-Feb,"['Nature', 'Adventure']",0.3028175212255258,0.25
+599,5,2024-01-01,5,"Nature, Adventure",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.399821878316247,Apr-Jun,"['Nature', 'Adventure']",0.44871295798087224,1.0
+452,991,2024-02-15,1,"Nature, Adventure",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.20738838115243,Nov-Feb,"['Nature', 'Adventure']",0.3522701038192434,0.0
+333,685,2024-03-20,5,"City, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.598827165312162,Apr-Jun,"['City', 'Historical']",0.04727444842280766,1.0
+195,898,2024-01-01,4,"City, Historical",Male,1,2,Jaipur City,Rajasthan,City,8.311533772217603,Oct-Mar,"['City', 'Historical']",0.40446516814088673,0.75
+813,441,2024-02-15,2,"City, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,7.865953290683349,Nov-Feb,"['City', 'Historical']",0.18115137905928103,0.25
+37,909,2024-03-20,3,"Beaches, Historical",Male,1,2,Kerala Backwaters,Kerala,Nature,8.740400669784297,Sep-Mar,"['Beaches', 'Historical']",0.61940252710581,0.5
+169,392,2024-01-01,1,"Beaches, Historical",Female,2,2,Goa Beaches,Goa,Beach,8.65903274744209,Nov-Mar,"['Beaches', 'Historical']",0.5786229602240432,0.0
+924,292,2024-02-15,1,"City, Historical",Female,1,1,Goa Beaches,Goa,Beach,8.259128922273915,Nov-Mar,"['City', 'Historical']",0.37820116849960467,0.0
+461,823,2024-03-20,2,"Nature, Adventure",Female,1,0,Jaipur City,Rajasthan,City,8.501224868997667,Oct-Mar,"['Nature', 'Adventure']",0.49953359984405,0.25
+679,507,2024-01-01,4,"Beaches, Historical",Male,2,1,Goa Beaches,Goa,Beach,8.240547501092525,Nov-Mar,"['Beaches', 'Historical']",0.36888862510396603,0.75
+437,632,2024-02-15,2,"Nature, Adventure",Male,2,1,Goa Beaches,Goa,Beach,7.876158566558553,Nov-Mar,"['Nature', 'Adventure']",0.1862660079956022,0.25
+681,378,2024-03-20,2,"City, Historical",Female,1,2,Jaipur City,Rajasthan,City,9.36474701059834,Oct-Mar,"['City', 'Historical']",0.932309292200953,0.25
+904,75,2024-01-01,3,"Beaches, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.051674304536373,Apr-Jun,"['Beaches', 'Historical']",0.27423010452945845,0.5
+268,757,2024-02-15,1,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,7.644463430707246,Nov-Mar,"['Beaches', 'Historical']",0.07014620283587986,0.0
+923,218,2024-03-20,1,"Nature, Adventure",Female,2,2,Jaipur City,Rajasthan,City,9.034168574407344,Oct-Mar,"['Nature', 'Adventure']",0.7666316509355829,0.0
+234,55,2024-01-01,5,"City, Historical",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629646730556,Apr-Jun,"['City', 'Historical']",0.028130807797880932,1.0
+815,471,2024-02-15,2,"Nature, Adventure",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,9.431015219195524,Nov-Feb,"['Nature', 'Adventure']",0.9655212603431211,0.25
+325,756,2024-03-20,4,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.54760827518156,Nov-Feb,"['Beaches', 'Historical']",0.5227798025272793,0.75
+7,953,2024-01-01,5,"Beaches, Historical",Male,2,1,Jaipur City,Rajasthan,City,8.321398766693164,Oct-Mar,"['Beaches', 'Historical']",0.4094092565534252,1.0
+764,735,2024-02-15,3,"Nature, Adventure",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.514869186476712,Apr-Jun,"['Nature', 'Adventure']",0.5063717903886322,0.5
+390,59,2024-03-20,4,"City, Historical",Male,2,1,Kerala Backwaters,Kerala,Nature,9.490122865222292,Sep-Mar,"['City', 'Historical']",0.9951445336796957,0.75
+706,484,2024-01-01,1,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.361380335928295,Sep-Mar,"['Beaches', 'Historical']",0.4294470187295929,0.0
+132,967,2024-02-15,2,"City, Historical",Female,2,2,Goa Beaches,Goa,Beach,7.528727096669634,Nov-Mar,"['City', 'Historical']",0.012142047897673362,0.25
+727,732,2024-03-20,2,"Beaches, Historical",Female,1,1,Goa Beaches,Goa,Beach,8.465381843255685,Nov-Mar,"['Beaches', 'Historical']",0.4815699721217788,0.25
+897,284,2024-01-01,2,"City, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,9.01486652208098,Sep-Mar,"['City', 'Historical']",0.7569579452400154,0.25
+376,408,2024-02-15,2,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,7.789753610332566,Oct-Mar,"['Beaches', 'Historical']",0.1429620057560603,0.25
+803,161,2024-03-20,1,"Nature, Adventure",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,7.738547101644033,Nov-Feb,"['Nature', 'Adventure']",0.11729858476979492,0.0
+672,21,2024-01-01,3,"City, Historical",Female,2,0,Taj Mahal,Uttar Pradesh,Historical,9.321865627407217,Nov-Feb,"['City', 'Historical']",0.9108182158223443,0.5
+550,113,2024-02-15,3,"Beaches, Historical",Male,1,0,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,"['Beaches', 'Historical']",0.03610192879730586,0.5
+34,297,2024-03-20,1,"Beaches, Historical",Female,1,2,Goa Beaches,Goa,Beach,7.633292996550987,Nov-Mar,"['Beaches', 'Historical']",0.06454786071700702,0.0
+445,633,2024-01-01,2,"Beaches, Historical",Female,2,1,Jaipur City,Rajasthan,City,8.038341365095178,Oct-Mar,"['Beaches', 'Historical']",0.2675479688668801,0.25
+497,103,2024-02-15,1,"Nature, Adventure",Male,2,1,Jaipur City,Rajasthan,City,9.293866271159713,Oct-Mar,"['Nature', 'Adventure']",0.8967856390049167,0.0
+626,952,2024-03-20,4,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,8.123015873320766,Nov-Mar,"['Nature', 'Adventure']",0.30998471386380816,0.75
+619,711,2024-01-01,1,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,8.636551596129936,Nov-Feb,"['Beaches', 'Historical']",0.5673559696567102,0.0
+755,344,2024-02-15,2,"Nature, Adventure",Male,2,2,Kerala Backwaters,Kerala,Nature,9.162324692301334,Sep-Mar,"['Nature', 'Adventure']",0.8308602908040819,0.25
+978,547,2024-03-20,2,"City, Historical",Female,2,1,Goa Beaches,Goa,Beach,8.645510418904573,Nov-Mar,"['City', 'Historical']",0.5718459074848353,0.25
+381,432,2024-01-01,5,"City, Historical",Female,2,0,Goa Beaches,Goa,Beach,8.839626409332572,Nov-Mar,"['City', 'Historical']",0.6691319851750961,1.0
+663,483,2024-02-15,3,"City, Historical",Male,1,1,Jaipur City,Rajasthan,City,9.187132541918034,Oct-Mar,"['City', 'Historical']",0.8432933643484983,0.5
+234,42,2024-03-20,1,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,8.854828172623169,Nov-Mar,"['City', 'Historical']",0.6767507285936939,0.0
+379,800,2024-01-01,3,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.972030910129,Apr-Jun,"['Beaches', 'Historical']",0.23431482790156147,0.5
+378,881,2024-02-15,3,"City, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,8.278291770000452,Nov-Feb,"['City', 'Historical']",0.38780510833258847,0.5
+345,84,2024-03-20,4,"City, Historical",Male,1,0,Kerala Backwaters,Kerala,Nature,9.33374854303011,Sep-Mar,"['City', 'Historical']",0.9167736358262639,0.75
+785,200,2024-01-01,5,"Nature, Adventure",Male,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.77167518972464,Apr-Jun,"['Nature', 'Adventure']",0.13390155366294804,1.0
+16,176,2024-02-15,1,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.165093921735247,Nov-Feb,"['Beaches', 'Historical']",0.33107317895151134,0.0
+302,274,2024-03-20,2,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,7.777024607207728,Sep-Mar,"['Nature', 'Adventure']",0.13658254786497057,0.25
+978,76,2024-01-01,4,"City, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,9.019776840711156,Nov-Feb,"['City', 'Historical']",0.7594188740830535,0.75
+677,195,2024-02-15,4,"Nature, Adventure",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.09297245471366,Apr-Jun,"['Nature', 'Adventure']",0.7961026844931763,0.75
+734,409,2024-03-20,5,"Nature, Adventure",Male,2,0,Kerala Backwaters,Kerala,Nature,7.695324251011531,Sep-Mar,"['Nature', 'Adventure']",0.09563637345295933,1.0
+404,667,2024-01-01,4,"Nature, Adventure",Male,1,2,Goa Beaches,Goa,Beach,7.97016084501826,Nov-Mar,"['Nature', 'Adventure']",0.23337759805641484,0.75
+745,114,2024-02-15,2,"Beaches, Historical",Female,1,2,Kerala Backwaters,Kerala,Nature,9.46714704036077,Sep-Mar,"['Beaches', 'Historical']",0.9836296251059741,0.25
+351,866,2024-03-20,1,"City, Historical",Male,2,2,Taj Mahal,Uttar Pradesh,Historical,8.15752225096045,Nov-Feb,"['City', 'Historical']",0.3272784469996626,0.0
+737,369,2024-01-01,1,"Nature, Adventure",Female,1,2,Kerala Backwaters,Kerala,Nature,7.526677667953975,Sep-Mar,"['Nature', 'Adventure']",0.01111492550135434,0.0
+485,315,2024-02-15,5,"Nature, Adventure",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.746686189763855,Apr-Jun,"['Nature', 'Adventure']",0.12137769209839255,1.0
+377,835,2024-03-20,2,"Nature, Adventure",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.622267855355735,Apr-Jun,"['Nature', 'Adventure']",0.5601973161547371,0.25
+442,983,2024-01-01,1,"Beaches, Historical",Female,1,0,Jaipur City,Rajasthan,City,9.08021631984698,Oct-Mar,"['Beaches', 'Historical']",0.7897096288519015,0.0
+636,115,2024-02-15,3,"City, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.717346793179837,Apr-Jun,"['City', 'Historical']",0.6078485009513547,0.5
+568,805,2024-03-20,5,"Beaches, Historical",Female,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.410141709638284,Apr-Jun,"['Beaches', 'Historical']",0.45388499924100933,1.0
+358,48,2024-01-01,1,"Beaches, Historical",Female,2,0,Jaipur City,Rajasthan,City,9.072662351480414,Oct-Mar,"['Beaches', 'Historical']",0.7859237689041503,0.0
+271,767,2024-02-15,2,"Beaches, Historical",Male,2,1,Goa Beaches,Goa,Beach,8.24362221802096,Nov-Mar,"['Beaches', 'Historical']",0.37042959630018596,0.25
+913,149,2024-03-20,1,"Beaches, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,7.812523860815096,Sep-Mar,"['Beaches', 'Historical']",0.15437388559442838,0.0
+411,724,2024-01-01,5,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,7.925686613406978,Sep-Mar,"['City', 'Historical']",0.21108822590211712,1.0
+364,262,2024-02-15,4,"Beaches, Historical",Female,2,2,Goa Beaches,Goa,Beach,7.758783397757156,Nov-Mar,"['Beaches', 'Historical']",0.12744051007684293,0.75
+534,113,2024-03-20,3,"City, Historical",Female,1,1,Jaipur City,Rajasthan,City,7.576534512918616,Oct-Mar,"['City', 'Historical']",0.03610192879730586,0.5
+380,662,2024-01-01,3,"Nature, Adventure",Male,2,0,Goa Beaches,Goa,Beach,7.848867269009221,Nov-Mar,"['Nature', 'Adventure']",0.17258829248232446,0.5
+225,64,2024-02-15,5,"City, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,7.995381521960635,Sep-Mar,"['City', 'Historical']",0.2460175703276686,1.0
+394,185,2024-03-20,3,"Beaches, Historical",Female,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.242881342868039,Apr-Jun,"['Beaches', 'Historical']",0.37005828820997166,0.5
+859,955,2024-01-01,1,"Beaches, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.10676258457348,Apr-Jun,"['Beaches', 'Historical']",0.30183897219510597,0.0
+797,546,2024-02-15,4,"Nature, Adventure",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.99406731089834,Nov-Feb,"['Nature', 'Adventure']",0.7465339009840574,0.75
+565,106,2024-03-20,5,"Beaches, Historical",Male,2,1,Taj Mahal,Uttar Pradesh,Historical,8.494823560399388,Nov-Feb,"['Beaches', 'Historical']",0.49632542413303066,1.0
+936,346,2024-01-01,4,"City, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,8.969950615777162,Nov-Feb,"['City', 'Historical']",0.7344472167803596,0.75
+574,326,2024-02-15,2,"Beaches, Historical",Male,1,2,Taj Mahal,Uttar Pradesh,Historical,8.206421939119537,Nov-Feb,"['Beaches', 'Historical']",0.351785747252389,0.25
+497,369,2024-03-20,2,"Nature, Adventure",Male,2,1,Kerala Backwaters,Kerala,Nature,7.526677667953975,Sep-Mar,"['Nature', 'Adventure']",0.01111492550135434,0.25
+352,261,2024-01-01,2,"Beaches, Historical",Female,1,0,Taj Mahal,Uttar Pradesh,Historical,8.083688761192684,Nov-Feb,"['Beaches', 'Historical']",0.29027494921541247,0.25
+308,826,2024-02-15,3,"Nature, Adventure",Female,2,2,Taj Mahal,Uttar Pradesh,Historical,8.277156854345177,Nov-Feb,"['Nature', 'Adventure']",0.38723631700134625,0.5
+240,700,2024-03-20,1,"City, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.87865289903948,Apr-Jun,"['City', 'Historical']",0.6886910853874645,0.0
+260,7,2024-01-01,1,"Nature, Adventure",Female,1,0,Goa Beaches,Goa,Beach,9.14506834197403,Nov-Mar,"['Nature', 'Adventure']",0.8222118397677145,0.0
+799,55,2024-02-15,3,"Beaches, Historical",Female,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,7.560629646730556,Apr-Jun,"['Beaches', 'Historical']",0.028130807797880932,0.5
+711,705,2024-03-20,5,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.371945150547274,Apr-Jun,"['City', 'Historical']",0.4347418394887638,1.0
+913,726,2024-01-01,3,"Beaches, Historical",Male,1,1,Taj Mahal,Uttar Pradesh,Historical,8.182156495747552,Nov-Feb,"['Beaches', 'Historical']",0.33962451414701483,0.5
+340,645,2024-02-15,2,"Beaches, Historical",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,9.16102966115886,Apr-Jun,"['Beaches', 'Historical']",0.8302112535966871,0.25
+679,852,2024-03-20,1,"Beaches, Historical",Male,2,1,Goa Beaches,Goa,Beach,8.287492091663,Nov-Mar,"['Beaches', 'Historical']",0.39241607936111866,0.0
+474,24,2024-01-01,5,"City, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,9.182423104129008,Sep-Mar,"['City', 'Historical']",0.8409331119570777,1.0
+283,100,2024-02-15,3,"Beaches, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.55062227154497,Apr-Jun,"['Beaches', 'Historical']",0.524290342095516,0.5
+379,786,2024-03-20,2,"Beaches, Historical",Female,1,2,Taj Mahal,Uttar Pradesh,Historical,8.389205905418272,Nov-Feb,"['Beaches', 'Historical']",0.44339249797223024,0.25
+968,958,2024-01-01,2,"Nature, Adventure",Female,1,2,Jaipur City,Rajasthan,City,7.932950633090041,Oct-Mar,"['Nature', 'Adventure']",0.21472877082410857,0.25
+740,692,2024-02-15,3,"Nature, Adventure",Female,1,1,Goa Beaches,Goa,Beach,8.822980009436904,Nov-Mar,"['Nature', 'Adventure']",0.6607892260343244,0.5
+655,795,2024-03-20,5,"Beaches, Historical",Female,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.189514727765914,Apr-Jun,"['Beaches', 'Historical']",0.3433122759342996,1.0
+40,654,2024-01-01,5,"Beaches, Historical",Male,1,1,Kerala Backwaters,Kerala,Nature,8.441880661939361,Sep-Mar,"['Beaches', 'Historical']",0.4697917680371402,1.0
+750,160,2024-02-15,3,"City, Historical",Male,1,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.0366846404497,Apr-Jun,"['City', 'Historical']",0.266717659925221,0.5
+752,799,2024-03-20,3,"Nature, Adventure",Male,1,2,Kerala Backwaters,Kerala,Nature,9.078902378388406,Sep-Mar,"['Nature', 'Adventure']",0.7890511142672074,0.5
+934,202,2024-01-01,1,"Beaches, Historical",Female,2,2,Goa Beaches,Goa,Beach,8.24671865641993,Nov-Mar,"['Beaches', 'Historical']",0.37198145375397473,0.0
+592,646,2024-02-15,5,"Beaches, Historical",Female,2,1,Taj Mahal,Uttar Pradesh,Historical,8.90349451280123,Nov-Feb,"['Beaches', 'Historical']",0.7011410806766131,1.0
+322,424,2024-03-20,3,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.016517304482331,Sep-Mar,"['Beaches', 'Historical']",0.2566102957178672,0.5
+627,499,2024-01-01,2,"City, Historical",Male,2,0,Kerala Backwaters,Kerala,Nature,9.26496476298098,Sep-Mar,"['City', 'Historical']",0.8823009262110741,0.25
+99,37,2024-02-15,4,"City, Historical",Male,2,0,Goa Beaches,Goa,Beach,8.874757885859394,Nov-Mar,"['City', 'Historical']",0.6867390022334339,0.75
+135,818,2024-03-20,4,"City, Historical",Female,1,2,Jaipur City,Rajasthan,City,8.385706717073933,Oct-Mar,"['City', 'Historical']",0.4416387923224812,0.75
+199,396,2024-01-01,3,"Beaches, Historical",Male,1,0,Taj Mahal,Uttar Pradesh,Historical,9.113864702192004,Nov-Feb,"['Beaches', 'Historical']",0.8065733562128057,0.5
+326,880,2024-02-15,1,"Nature, Adventure",Female,1,0,Leh Ladakh,Jammu and Kashmir,Adventure,8.442750358263288,Apr-Jun,"['Nature', 'Adventure']",0.4702276380752029,0.0
+286,697,2024-03-20,2,"Beaches, Historical",Male,2,2,Goa Beaches,Goa,Beach,8.419227436314172,Nov-Mar,"['Beaches', 'Historical']",0.45843853812935137,0.25
+50,224,2024-01-01,2,"Nature, Adventure",Female,2,0,Kerala Backwaters,Kerala,Nature,8.077912596148288,Sep-Mar,"['Nature', 'Adventure']",0.28738007981273234,0.25
+76,29,2024-02-15,5,"Beaches, Historical",Female,2,0,Kerala Backwaters,Kerala,Nature,8.320514389999829,Sep-Mar,"['Beaches', 'Historical']",0.40896602908151225,1.0
+843,886,2024-03-20,1,"City, Historical",Male,2,0,Taj Mahal,Uttar Pradesh,Historical,7.713067194844037,Nov-Feb,"['City', 'Historical']",0.10452869297973902,0.0
+564,348,2024-01-01,2,"City, Historical",Male,2,0,Jaipur City,Rajasthan,City,8.013552975522641,Oct-Mar,"['City', 'Historical']",0.25512464820971475,0.25
+684,142,2024-02-15,2,"City, Historical",Male,1,0,Goa Beaches,Goa,Beach,7.601039201109356,Nov-Mar,"['City', 'Historical']",0.04838306542002125,0.25
+968,567,2024-03-20,5,"Nature, Adventure",Female,1,2,Goa Beaches,Goa,Beach,9.187761000514808,Nov-Mar,"['Nature', 'Adventure']",0.8436083320733933,1.0
+978,800,2024-01-01,1,"City, Historical",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.972030910129,Apr-Jun,"['City', 'Historical']",0.23431482790156147,0.0
+704,642,2024-02-15,1,"Nature, Adventure",Male,2,2,Goa Beaches,Goa,Beach,9.304705550324336,Nov-Mar,"['Nature', 'Adventure']",0.9022180145273601,0.0
+734,445,2024-03-20,4,"Nature, Adventure",Male,2,0,Leh Ladakh,Jammu and Kashmir,Adventure,7.845173227424654,Apr-Jun,"['Nature', 'Adventure']",0.170736931263731,0.75
+589,20,2024-01-01,1,"Beaches, Historical",Male,2,2,Leh Ladakh,Jammu and Kashmir,Adventure,8.930902395039807,Apr-Jun,"['Beaches', 'Historical']",0.7148772255192337,0.0
+129,240,2024-02-15,3,"City, Historical",Male,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,8.51845220238507,Apr-Jun,"['City', 'Historical']",0.5081675083161322,0.5
+634,359,2024-03-20,3,"Beaches, Historical",Male,2,2,Kerala Backwaters,Kerala,Nature,7.832207353651939,Sep-Mar,"['Beaches', 'Historical']",0.1642387597303439,0.5
+831,78,2024-01-01,1,"City, Historical",Female,2,2,Jaipur City,Rajasthan,City,8.697245496090385,Oct-Mar,"['City', 'Historical']",0.5977742337773436,0.0
+959,660,2024-02-15,4,"Nature, Adventure",Male,1,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.923387964302513,Apr-Jun,"['Nature', 'Adventure']",0.209936200482333,0.75
+538,30,2024-03-20,5,"Beaches, Historical",Female,2,1,Leh Ladakh,Jammu and Kashmir,Adventure,7.930637906720852,Apr-Jun,"['Beaches', 'Historical']",0.21356969023145303,1.0
